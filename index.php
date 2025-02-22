@@ -12,7 +12,9 @@
 </head>
 <body>
     <div class="header">
-        <h1>ANIME LIST</h1>
+        <a href="../anime_list">
+            <h1>ANIME LIST</h1>
+        </a>
         <div class="pindutan">
             <button id="add-anime" class="pindutanTalaga">Add Anime</button>
         </div>

@@ -1,0 +1,173 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    /* overflow: hidden; */
+}
+
+.header > h1 {
+    justify-self: center;
+}
+
+.header > .pindutan,
+.header > .searchBar {
+    justify-self: end;
+}
+
+.header > .pindutan > .pindutanTalaga {
+    background-color: #05a705;
+    border: 1px #05a705;
+    color: white;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+.header > .pindutan > .pindutanTalaga:hover {
+    background-color: #028602;
+}
+
+.header > .searchBar > #search-input:hover {
+    background-color: #f0f0f0;
+}
+
+.listDiv {
+    overflow-y: scroll;
+    height: 71vh;
+}
+
+.listDiv > .tableSaIndex {
+    padding-inline: .5em;
+    width: 100%;
+}
+
+.listDiv > .tableSaIndex > thead {
+    background-color: #353535; 
+    color: #fff;
+}
+
+.listDiv > .tableSaIndex > thead > tr > .sortable {
+    cursor: pointer;
+    position: relative;
+}
+
+.listDiv > .tableSaIndex > #anime-list > .listahan:nth-child(odd) {
+    background-color: #FFFFFF;
+}
+
+.listDiv > .tableSaIndex > #anime-list > .listahan:nth-child(even) {
+    background-color: #d3d3d3;
+}
+
+.listDiv > .tableSaIndex > #anime-list > .listahan > td {
+    text-align: center;
+}
+
+.listDiv > .tableSaIndex > #anime-list > .listahan > .aniname {
+    text-align: left;
+}
+
+.listDiv > .tableSaIndex > #anime-list > .listahan > .pindutanSaScr {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.listDiv > .tableSaIndex > #anime-list > .listahan > .pindutanSaScr > .edit-btn,
+.listDiv > .tableSaIndex > #anime-list > .listahan > .pindutanSaScr > .delete-btn  {
+    background-color: #473e3e;
+    color: #FFFFFF;
+    border: 1px solid #473e3e;
+    cursor: pointer;
+    padding: .2em;
+    border-radius: .5em;
+    font-size: 1em;
+}
+
+.listDiv > .tableSaIndex > #anime-list > .listahan > .pindutanSaScr > .edit-btn {
+    background-color: #473e3e;
+    border: 1px solid #473e3e;
+    width: 2.5em;
+}
+
+.listDiv > .tableSaIndex > #anime-list > .listahan > .pindutanSaScr > .edit-btn:hover {
+    background-color: #837373;
+}
+
+.listDiv > .tableSaIndex > #anime-list > .listahan > .pindutanSaScr > .delete-btn {
+    background-color: #f53f3f;
+    border: 1px solid #f53f3f;
+    width: 3.5em;
+}
+
+.listDiv > .tableSaIndex > #anime-list > .listahan > .pindutanSaScr > .delete-btn:hover {
+    background-color: #bb2f2f;
+}
+
+#modal-overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 1;
+}
+
+#anime-modal {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: white;
+    z-index: 2;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    border-radius: 8px;
+}
+
+#anime-modal > h2 {
+    text-align: center;
+    padding-bottom: 1em;
+}
+
+#anime-modal > #anime-form {
+    display: flex;
+    flex-direction: column;
+}
+
+#anime-modal > #anime-form > input {
+    align-self: center;
+}
+
+#anime-modal > #anime-form > input:hover {
+    background-color: #f0f0f0;
+}
+
+#anime-modal > #anime-form > .save-btn {
+    font-size: 1em;
+    background-color: #05a705;
+    border: 1px #05a705;
+    color: white;
+    align-self: center;
+    border-radius: 15px;
+}
+
+#anime-modal > #anime-form > .save-btn:hover {
+    background-color: #028602;
+    cursor: pointer;
+}
+
+#anime-modal > .close-modal {
+    cursor: pointer;
+    color: red;
+    font-size: 3em;
+    float: right;
+    margin-top: -.4em;
+}
+
+#anime-modal > .close-modal form input,
+#anime-modal > .close-modal button {
+    display: flex;
+    flex-direction: column;
+}

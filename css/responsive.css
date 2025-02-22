@@ -1,0 +1,151 @@
+/* laptop-L */
+@media screen and (max-width: 1650px) {
+    .header {
+        padding-bottom: .8em;
+        margin: .3em;
+    }
+
+    .header > h1 {
+        padding-block: .3em;
+        padding-top: 1em;
+    }
+    
+    .header > .pindutan,
+    .header > .searchBar {
+        height: 2.7em;
+        padding-right: 1em;
+    }
+
+    .header > .pindutan > .pindutanTalaga {
+        font-size: 1.3em;
+        padding: .3em;
+        border-radius: .5em;
+    }
+
+    .header > .searchBar > #search-input {
+        font-size: 1.3em;
+    }
+
+    .listDiv > .tableSaIndex > thead > tr > .sortable {
+        padding: 1.1em;
+    }
+
+    .listDiv > .tableSaIndex > #anime-list > .listahan > .aniname {
+        padding-inline: 1em;
+    }
+
+    .listDiv > .tableSaIndex > #anime-list > .listahan > td {
+        padding: .2em;
+        padding-inline: 1em;
+    }
+
+    .listDiv > .tableSaIndex > #anime-list > .listahan > .pindutanSaScr > .edit-btn,
+    .listDiv > .tableSaIndex > #anime-list > .listahan > .pindutanSaScr > .delete-btn  {
+        margin-block: .2em;
+        padding: .2em;
+        font-size: 1em;
+    }
+
+    #anime-modal > #anime-form > p {
+        padding-left: .5em;
+    }
+
+    #anime-modal > #anime-form > input {
+        width: 30em;
+    }
+
+    #anime-modal > #anime-form > .save-btn {
+        width: 5em;
+        padding: .5em;
+    }
+}
+
+/* mobile-L */
+@media screen and (max-width: 430px) {    
+    .listDiv {
+        height: 75vh;
+        overflow-x: hidden;
+    }
+
+    .listDiv > .tableSaIndex {
+        table-layout: fixed;
+    }
+
+    .header > .pindutan,
+    .header > .searchBar {
+        height: 2em;
+        justify-self: center;
+    }
+
+    .header > .pindutan {
+        margin-right: -1.8em;
+    }
+
+    .header > .searchBar {
+        margin-bottom: -25px;
+        margin-right: -2em;
+    }
+
+    .header > .pindutan > .pindutanTalaga {
+        margin-top: 1em;
+        font-size: 10px;
+        padding: .5em;
+    }
+
+    .header > .searchBar > #search-input {
+        font-size: 10px;
+    }
+
+    .listDiv > .tableSaIndex > thead > tr > .sortable {
+        display: hidden;
+    }
+
+    .listDiv > .tableSaIndex > thead > tr > th {
+        text-align: center;
+        overflow-wrap: normal;
+        padding: 2px;
+        font-size: 7px;
+    }
+
+    .listDiv > .tableSaIndex > thead > tr > .se,
+    .listDiv > .tableSaIndex > thead > tr > .e,
+    .listDiv > .tableSaIndex > thead > tr > .st,
+    .listDiv > .tableSaIndex > thead > tr > .wa { 
+        text-align: center;
+    }
+
+    .listDiv > .tableSaIndex > #anime-list > .listahan > .aniname, 
+    .listDiv > .tableSaIndex > #anime-list > .listahan > td {
+        word-break: keep-all;
+        font-size: .39em;
+    }
+
+    .listDiv > .tableSaIndex > #anime-list > .listahan > .pindutanSaScr > .edit-btn,
+    .listDiv > .tableSaIndex > #anime-list > .listahan > .pindutanSaScr > .delete-btn  {
+        margin-block: 2px;
+        font-size: 8px;
+    }
+
+    .listDiv > .tableSaIndex > #anime-list > .listahan > .pindutanSaScr > .edit-btn {
+        width: 2.8em;
+        font-size: 8px;
+    }
+
+    .listDiv > .tableSaIndex > #anime-list > .listahan > .pindutanSaScr > .delete-btn {
+        width: 4em;
+        font-size: 8px;
+    }
+    
+    #anime-modal > #anime-form > p {
+        padding-left: .8em;
+    }
+
+    #anime-modal > #anime-form > input {
+        width: 16em;
+    }
+
+    #anime-modal > #anime-form > .save-btn {
+        width: 4em;
+        padding: .2em;
+    }
+}

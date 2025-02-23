@@ -5,11 +5,26 @@
     $pass = '';
     $conn = new mysqli($host, $user, $pass, $db);
 
+    // Last ID, First Row
     if ($_SERVER['REQUEST_METHOD'] === 'GET') {
-        $result = $conn->query("SELECT * FROM list");
+        $result = $conn->query("SELECT * FROM list ORDER BY ani_ID DESC"); // Latest entries first
         $anime = $result->fetch_all(MYSQLI_ASSOC);
         echo json_encode($anime);
     }
+
+    // Sorting by Japanese Name
+    // if ($_SERVER['REQUEST_METHOD'] === 'GET') {
+    //     $result = $conn->query("SELECT * FROM list ORDER BY jap_name ASC");
+    //     $anime = $result->fetch_all(MYSQLI_ASSOC);
+    //     echo json_encode($anime);
+    // } 
+
+    // First ID, First Row
+    // if ($_SERVER['REQUEST_METHOD'] === 'GET') {
+    //     $result = $conn->query("SELECT * FROM list");
+    //     $anime = $result->fetch_all(MYSQLI_ASSOC);
+    //     echo json_encode($anime);
+    // }
 
     if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $action = $_POST['action'];

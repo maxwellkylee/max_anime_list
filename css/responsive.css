@@ -73,9 +73,9 @@
 /* mobile-L */
 @media screen and (max-width: 430px) {    
     .listDiv {
-        height: 71vh;
+        height: 80vh;
         overflow-x: hidden;
-        margin-inline: .2em;
+        margin-inline: -2px;
     }
 
     .listDiv > .tableSaIndex {
@@ -109,8 +109,9 @@
         font-size: 10px;
     }
 
-    .listDiv > .tableSaIndex > thead > tr > .sortable {
-        display: hidden;
+    .listDiv > .tableSaIndex > thead > tr > .jap,
+    .listDiv > .tableSaIndex > thead > tr > .eng {
+        width: 15%;
     }
 
     .listDiv > .tableSaIndex > thead > tr > th {
@@ -120,18 +121,17 @@
         font-size: 7px;
     }
 
-    .listDiv > .tableSaIndex > thead > tr > .se,
-    .listDiv > .tableSaIndex > thead > tr > .e,
-    .listDiv > .tableSaIndex > thead > tr > .st,
-    .listDiv > .tableSaIndex > thead > tr > .wa { 
-        text-align: center;
-    }
-
     .listDiv > .tableSaIndex > #anime-list > .listahan > .aniname, 
     .listDiv > .tableSaIndex > #anime-list > .listahan > td {
         word-break: keep-all;
-        font-size: .39em;
+        font-size: .3em;
     }
+
+    .listDiv > .tableSaIndex > #anime-list > .listahan > .pindutanSaScr {
+        display: flex;
+        flex-direction: column;
+    }
+    
 
     .listDiv > .tableSaIndex > #anime-list > .listahan > .pindutanSaScr > .edit-btn,
     .listDiv > .tableSaIndex > #anime-list > .listahan > .pindutanSaScr > .delete-btn  {

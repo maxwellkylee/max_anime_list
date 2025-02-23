@@ -1,11 +1,12 @@
 * {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: "Baskerville Old Face", serif;
     margin: 0;
 }
 
 body {
     background: linear-gradient(to bottom, #3E3232, #503C3C, #7E6363, #A87C7C);
     overflow: hidden;
+    background-repeat: no-repeat;
 }
 
 .header > a {
@@ -117,6 +118,20 @@ body {
 
 .listDiv > .tableSaIndex > #anime-list > .listahan > .pindutanSaScr > .delete-btn:hover {
     background-color: #A31D1D;
+}
+
+.listDiv > .tableSaIndex > thead > tr > .se,
+.listDiv > .tableSaIndex > thead > tr > .st {
+    width: 9%;
+}
+
+.listDiv > .tableSaIndex > thead > tr > .e,
+.listDiv > .tableSaIndex > thead > tr > .wa { 
+    width: 14%;
+}
+
+.listDiv > .tableSaIndex > thead > tr > .act {
+    width: 13%;
 }
 
 #modal-overlay {

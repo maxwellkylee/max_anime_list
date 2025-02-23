@@ -30,13 +30,13 @@
         <table class="tableSaIndex">
             <thead>
                 <tr>
-                    <th class="sortable" data-column="jap_name">Japanese Name</th>
-                    <th class="sortable" data-column="eng_name">English Name</th>
+                    <th class="sortable jap" data-column="jap_name">Japanese Name</th>
+                    <th class="sortable eng" data-column="eng_name">English Name</th>
                     <th class="sortable se" data-column="season">Season</th>
                     <th class="sortable e" data-column="eps">Episodes</th>
                     <th class="sortable st" data-column="stat">Status</th>
                     <th class="sortable wa" data-column="watched">Watched</th>
-                    <th>Actions</th>
+                    <th class="act">Actions</th>
                 </tr>
             </thead>
             <tbody id="anime-list"></tbody>

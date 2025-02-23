@@ -53,6 +53,18 @@ body {
     /* margin: 3em; */
 }
 
+.listDiv::-webkit-scrollbar {
+    width: .6em;
+    background: linear-gradient(to top, #3E3232, #503C3C, #7E6363, #A87C7C);
+    border-radius: 5px;
+}
+
+.listDiv::-webkit-scrollbar-thumb {
+    background-color: white;
+    border-radius: 5px;
+    height: 2em;
+}
+
 .listDiv > .tableSaIndex {
     width: 100%;
     opacity: 75%;
@@ -60,7 +72,7 @@ body {
 
 .listDiv > .tableSaIndex > thead {
     background-color: #9AA6B2; 
-    color: #fff;
+    color: #ffffff;
 }
 
 .listDiv > .tableSaIndex > thead > tr > .sortable {
@@ -121,9 +133,12 @@ body {
     background-color: #A31D1D;
 }
 
-.listDiv > .tableSaIndex > thead > tr > .se,
-.listDiv > .tableSaIndex > thead > tr > .st {
+.listDiv > .tableSaIndex > thead > tr > .se{
     width: 9%;
+}
+
+.listDiv > .tableSaIndex > thead > tr > .st {
+    width: 10%;
 }
 
 .listDiv > .tableSaIndex > thead > tr > .e,

@@ -75,7 +75,7 @@
     .listDiv {
         height: 80vh;
         overflow-x: hidden;
-        margin-inline: -2px;
+        margin-inline: .4em;
     }
 
     .listDiv > .tableSaIndex {
@@ -147,6 +147,14 @@
     .listDiv > .tableSaIndex > #anime-list > .listahan > .pindutanSaScr > .delete-btn {
         width: 4em;
         font-size: 8px;
+    }
+
+    .listDiv::-webkit-scrollbar {
+        width: .2em;
+    }
+    
+    .listDiv::-webkit-scrollbar-thumb {
+        height: .6em;
     }
     
     #anime-modal > #anime-form > p {

@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <link rel="icon" href="./img/jane.jfif">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Listahan</title>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
@@ -11,19 +12,19 @@
     <link rel="stylesheet" href="./css/responsive.css">
 </head>
 <body>
-    <div class="header">
-        <a href="../anime_list">
-            <h1>ANIME LIST</h1>
-        </a>
-        <div class="pindutan">
-            <button id="add-anime" class="pindutanTalaga">Add Anime</button>
-        </div>
-        <div id="search-container" class="searchBar">
-            <input type="text" id="search-input" placeholder="Search Anime...">
-        </div>
-    </div>
 
-
+        <div class="header">
+            <a href="../anime_list">
+                <h1>ANIME LIST</h1>
+            </a>
+            <div class="pindutan">
+                <button id="add-anime" class="pindutanTalaga">Add Anime</button>
+            </div>
+            <div id="search-container" class="searchBar">
+                <input type="text" id="search-input" placeholder="Search Anime...">
+            </div>
+        </div>
+        
     <div class="listDiv">
         <!-- <h2>My List</h2> -->
         <table class="tableSaIndex">

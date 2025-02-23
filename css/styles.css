@@ -1,7 +1,11 @@
 * {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
-    /* overflow: hidden; */
+}
+
+body {
+    background: linear-gradient(to bottom, #3E3232, #503C3C, #7E6363, #A87C7C);
+    overflow: hidden;
 }
 
 .header > a {
@@ -12,6 +16,7 @@
 .header > a > h1 {
     justify-self: center;
     cursor: pointer;
+    color: #FFFFFF;
 }
 
 .header > .pindutan,
@@ -20,33 +25,39 @@
 }
 
 .header > .pindutan > .pindutanTalaga {
-    background-color: #05a705;
-    border: 1px #05a705;
-    color: white;
+    background-color: #7E99A3;
+    border: 1px #7E99A3;
+    /* color: white; */
     cursor: pointer;
     border-radius: 20px;
 }
 
 .header > .pindutan > .pindutanTalaga:hover {
-    background-color: #028602;
+    background-color: #4C585B;
+}
+
+.header > .searchBar > #search-input {
+    background-color: #F8FAFC;
+    border: 1px #F8FAFC;
 }
 
 .header > .searchBar > #search-input:hover {
-    background-color: #f0f0f0;
+    background-color: #cfd2d3;
 }
 
 .listDiv {
     overflow-y: scroll;
     height: 71vh;
+    /* margin: 3em; */
 }
 
 .listDiv > .tableSaIndex {
-    padding-inline: .5em;
     width: 100%;
+    opacity: 75%;
 }
 
 .listDiv > .tableSaIndex > thead {
-    background-color: #353535; 
+    background-color: #9AA6B2; 
     color: #fff;
 }
 
@@ -56,11 +67,11 @@
 }
 
 .listDiv > .tableSaIndex > #anime-list > .listahan:nth-child(odd) {
-    background-color: #FFFFFF;
+    background-color: #eeeeee;
 }
 
 .listDiv > .tableSaIndex > #anime-list > .listahan:nth-child(even) {
-    background-color: #d3d3d3;
+    background-color: #bcccdc;
 }
 
 .listDiv > .tableSaIndex > #anime-list > .listahan > td {
@@ -89,23 +100,23 @@
 }
 
 .listDiv > .tableSaIndex > #anime-list > .listahan > .pindutanSaScr > .edit-btn {
-    background-color: #473e3e;
-    border: 1px solid #473e3e;
+    background-color: #C1BAA1;
+    border: 1px solid #C1BAA1;
     width: 2.5em;
 }
 
 .listDiv > .tableSaIndex > #anime-list > .listahan > .pindutanSaScr > .edit-btn:hover {
-    background-color: #837373;
+    background-color: #A59D84;
 }
 
 .listDiv > .tableSaIndex > #anime-list > .listahan > .pindutanSaScr > .delete-btn {
-    background-color: #f53f3f;
-    border: 1px solid #f53f3f;
+    background-color: #D84040;
+    border: 1px solid #D84040;
     width: 3.5em;
 }
 
 .listDiv > .tableSaIndex > #anime-list > .listahan > .pindutanSaScr > .delete-btn:hover {
-    background-color: #bb2f2f;
+    background-color: #A31D1D;
 }
 
 #modal-overlay {

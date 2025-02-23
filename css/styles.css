@@ -7,6 +7,7 @@ body {
     background: linear-gradient(to bottom, #3E3232, #503C3C, #7E6363, #A87C7C);
     overflow: hidden;
     background-repeat: no-repeat;
+    height: fit-content;
 }
 
 .header > a {

@@ -10,14 +10,13 @@ body {
     height: fit-content;
 }
 
-.header > a {
-    text-decoration: none;
-    color: black;
+.header > h1 {
+    text-align: center;
 }
 
-.header > a > h1 {
-    justify-self: center;
+.header > h1 > a {
     cursor: pointer;
+    text-decoration: none;
     color: #FFFFFF;
 }
 

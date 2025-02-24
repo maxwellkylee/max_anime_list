@@ -13,17 +13,17 @@
 </head>
 <body>
 
-        <div class="header">
-            <a href="../anime_list">
-                <h1>ANIME LIST</h1>
-            </a>
-            <div class="pindutan">
-                <button id="add-anime" class="pindutanTalaga">Add Anime</button>
-            </div>
-            <div id="search-container" class="searchBar">
-                <input type="text" id="search-input" placeholder="Search Anime...">
-            </div>
+    <div class="header">
+        <a href="../anime_list">
+            <h1>ANIME LIST</h1>
+        </a>
+        <div class="pindutan">
+            <button id="add-anime" class="pindutanTalaga">Add Anime</button>
         </div>
+        <div id="search-container" class="searchBar">
+            <input type="text" id="search-input" placeholder="Search Anime...">
+        </div>
+    </div>
         
     <div class="listDiv">
         <!-- <h2>My List</h2> -->
@@ -58,6 +58,10 @@
             <p>Watched? </p><input type="text" id="watched" required><br>
             <button type="submit" class="save-btn">Save</button>
         </form>
+    </div>
+
+    <div class="footer">
+        
     </div>
 </body>
 </html>

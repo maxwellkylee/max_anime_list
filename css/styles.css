@@ -79,6 +79,10 @@ body {
     position: relative;
 }
 
+.listDiv > .tableSaIndex > thead > tr > .sortable:hover {
+    background-color: #747d86; 
+}
+
 .listDiv > .tableSaIndex > #anime-list > .listahan:nth-child(odd) {
     background-color: #eeeeee;
 }

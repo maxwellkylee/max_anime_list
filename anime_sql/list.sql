@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Feb 22, 2025 at 03:40 PM
+-- Generation Time: Feb 23, 2025 at 02:00 PM
 -- Server version: 10.4.32-MariaDB
 -- PHP Version: 8.2.12
 
@@ -1134,7 +1134,7 @@ INSERT INTO `list` (`ani_ID`, `jap_name`, `eng_name`, `season`, `eps`, `stat`, `
 (1088, 'Strike the Blood IV', 'Strike the Blood IV', '4', '12', 'Completed', 'NOT YET'),
 (1089, 'Strike the Blood FINAL', 'Strike the Blood FINAL', '5', '4', 'Completed', 'NOT YET'),
 (1090, 'Date a Live IV', 'Date a Live IV', '4', '12', 'Completed', 'NOT YET'),
-(1091, 'Re:Zero kara Hajimeru Isekai Seikatsu- Season 3', 'Re:Zero Starting Life in Another World- Season 3', '4', '12', '?', 'NOT YET'),
+(1091, 'Re:Zero kara Hajimeru Isekai Seikatsu- Season 3', 'Re:Zero Starting Life in Another World- Season 3', '4', '16', 'Airing', 'NOT YET'),
 (1092, 'Negima!?', 'Negima!? Magister Negi Magi', '2', '26', 'Completed', 'NOT YET'),
 (1093, 'Clannad: After Story', 'Clannad: After Story', '2', '24', 'Completed', 'NOT YET'),
 (1094, 'Karakai Jouzu no Takagi-san', 'Teasing Master Takagi-san', '3', '12', 'Completed', 'NOT YET'),
@@ -1264,7 +1264,7 @@ INSERT INTO `list` (`ani_ID`, `jap_name`, `eng_name`, `season`, `eps`, `stat`, `
 (1218, 'Vampire Knight Guilty', 'Vampire Knight Guilty', '2', '13', 'Completed', 'NOT YET'),
 (1219, 'Diabolik Lovers', 'Diabolik Lovers', '1', '12', 'Completed', 'NOT YET'),
 (1220, 'Diabolik Lovers Ⅱ : More,blood', 'Diabolik Lovers Ⅱ : More,blood', '2', '12', 'Completed', 'NOT YET'),
-(1221, 'The Daily Life of a Middle-Aged Online Shopper in Another World', 'nan', 'nan', 'nan', 'nan', 'nan'),
+(1221, 'Arafoo Otoko no Isekai Tsuuhan Seikatsu', 'The Daily Life of a Middle-Aged Online Shopper in Another World', '1', '12', 'Airing', 'NOT YET'),
 (1222, 'Yuru Camp△', 'Laid-Back Camp', '1', '12', 'Completed', 'NOT YET'),
 (1223, 'Yuru Camp△ 2', 'Laid-Back Camp 2', '2', '13', 'Completed', 'NOT YET'),
 (1224, 'Strike Witches', 'Strike Witches', '1', '12', 'Completed', 'NOT YET'),
@@ -1321,7 +1321,6 @@ INSERT INTO `list` (`ani_ID`, `jap_name`, `eng_name`, `season`, `eps`, `stat`, `
 (1275, 'Katsute Kami Datta Kemono-tachi e', 'To the Abandoned Sacred Beasts', '1', '12', 'Completed', 'NOT YET'),
 (1276, 'Shinigami Bocchan to Kuro Maid 2', 'The Duke of Death and His Maid 2', '2', '12', 'Completed', 'NOT YET'),
 (1277, 'Shinigami Bocchan to Kuro Maid 3', 'The Duke of Death and His Maid 3', '3', '?', 'Airing', 'NOT YET'),
-(1278, 'Henjin no Salad Bowl', 'A Salad Bowl of Eccentrics', '1', '?', 'Airing', 'NOT YET'),
 (1279, 'Do It Yourself!!', 'Do It Yourself!!', '1', '12', 'Completed', 'NOT YET'),
 (1280, 'Mushikaburi-hime', 'Bibliophile Princess', '1', '12', 'Completed', 'NOT YET'),
 (1281, '4-nin wa Sorezore Uso wo Tsuku', 'The Little Lies We All Tell', '1', '11', 'Completed', 'NOT YET'),
@@ -1444,9 +1443,9 @@ INSERT INTO `list` (`ani_ID`, `jap_name`, `eng_name`, `season`, `eps`, `stat`, `
 (1399, 'Koi wa Futago de Warikirenai', 'Love Is Indivisible by Twins', '1', '12', 'Completed', 'NOT YET'),
 (1400, 'Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Toubatsu Shiyou to Omoimasu', 'I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time', '1', '12', 'Airing', 'NOT YET'),
 (1401, 'Fuguushoku \'Kanteishi\' ga Jitsu wa Saikyou Datta', 'Even Given the Worthless \'Appraiser\' Class, I’m Actually the Strongest', '1', '12', 'Airing', 'NOT YET'),
-(1402, 'My Favorite VTuber Is Scary IRL', 'nan', 'nan', 'nan', 'nan', 'nan'),
+(1402, 'Haitatsusaki no Onee-san ga Kowa Sugiru Hanashi', 'My Favorite VTuber Is Scary IRL', '1', '?', '?', 'NOT YET'),
 (1403, 'Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsurasugiru', 'Fell in Love with an Okinawan Girl, but I Just Wish I Know What She\'s Saying', '1', '12', 'Airing', 'NOT YET'),
-(1404, 'From Old Country Bumpkin to Master Swordsman', 'nan', 'nan', 'nan', 'nan', 'nan'),
+(1404, 'Katainaka no Ossan, Kensei ni Naru: Tada no Inaka no Kenjutsu Shihan Datta noni, Taisei Shita Deshitachi ga Ore o Hōttekurenai Ken', 'From Old Country Bumpkin to Master Swordsman: My Hotshot Discples Are All Grown Up Now and They Won\'t Leave Me Alone', '1', '?', '?', 'NOT YET'),
 (1405, 'Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai', 'Medaka Kuroiwa is Impervious to My Charms', '1', '12', 'Airing', 'NOT YET'),
 (1406, 'Momentary Lily', 'Momentary Lily', '1', '13', 'Airing', 'NOT YET'),
 (1407, 'Nageki no Bourei wa Intai shitai', 'Let This Grieving Soul Retire!', '1', '13', 'Completed', 'NOT YET'),
@@ -1475,19 +1474,19 @@ INSERT INTO `list` (`ani_ID`, `jap_name`, `eng_name`, `season`, `eps`, `stat`, `
 (1430, 'Vampire Dormitory', 'Vampire Dormitory', '1', '12', 'Completed', 'NOT YET'),
 (1431, 'Kyuujitsu no Warumono-sanKyuujitsu no Warumono-san', 'Mr. Villain\'s Day Off', '1', '12', 'Completed', 'NOT YET'),
 (1432, 'Yama no Susume: Next SummitYama no Susume: Next Summit', 'Encouragement of Climb: Next Summit', '1', '12', 'Completed', 'NOT YET'),
-(1433, 'Days With My Stepsister', 'nan', 'nan', 'nan', 'nan', 'nan'),
-(1434, 'NareNare', 'nan', 'nan', 'nan', 'nan', 'nan'),
-(1435, 'The Elusive Samurai', 'nan', 'nan', 'nan', 'nan', 'nan'),
+(1433, 'Gimai Seikatsu', 'Days With My Stepsister', '1', '12', 'Completed', 'NOT YET'),
+(1434, 'Gimai Seikatsu', 'Cheer for You!', '1', '12', 'Completed', 'NOT YET'),
+(1435, 'Nigewaka', 'The Elusive Samurai', '1', '12', 'Completed', 'NOT YET'),
 (1436, 'Cider no You ni Kotoba ga Wakiagaru', 'Words Bubble Up Like Soda Pop', 'MOVIE', '1', 'Completed', 'NOT YET'),
 (1438, 'Saikyou no Shienshoku \'Wajutsushi\' de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru', 'The Most Notorious \'Talker\' Runs the World\'s Greatest Clan', '1', '12', 'Completed', 'NOT YET'),
 (1439, 'Raise wa Tanin ga Ii', 'Yakuza Fiancé', '1', '12', 'Completed', 'NOT YET'),
 (1440, 'Sentai Red Isekai de Boukensha ni Naru', 'The Red Ranger Become an Adventure in Another World', '1', '12', 'Airing', 'NOT YET'),
 (1441, 'Mecha Ude', 'Mechanical Arms', '1', '12', 'Completed', 'NOT YET'),
 (1442, 'Sayounara Ryuusei, Konnichiwa Jinsei', 'Good Bye, Dragon Life', '1', '12', 'Completed', 'NOT YET'),
-(1443, 'Haite Kudasai Takamine-san', 'nan', 'nan', 'nan', 'nan', 'nan'),
+(1443, 'Haite Kudasai Takamine-san', 'Please Put Them On, Takamine-san', '1', '?', '?', 'NOT YET'),
 (1444, 'Sakamoto Days', 'Sakamoto Days', '1', '11', 'Airing', 'NOT YET'),
 (1445, 'Goukon ni Ittara Onna ga Inakatta Hanashi', 'How I Attended an All-Guy\'s Mixer', '1', '12', 'Completed', 'YES'),
-(1446, 'Ranma 1/2', 'nan', 'nan', 'nan', 'nan', 'nan'),
+(1446, 'Ranma ½ Nettou Hen', 'Ranma ½', '1', '12', 'Completed', 'NOT YET'),
 (1447, 'Hitoribocchi no Isekai Kouryaku', 'Loner Life in Another World', '1', '12', 'Completed', 'NOT YET'),
 (1449, 'NegaPosi Angler', 'Negative Positive Angler', '1', '12', 'Completed', 'NOT YET'),
 (1450, 'Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu', 'Do-Over Damsel Conquers the Dragon Emperor', '1', '12', 'Completed', 'NOT YET'),
@@ -1495,7 +1494,63 @@ INSERT INTO `list` (`ani_ID`, `jap_name`, `eng_name`, `season`, `eps`, `stat`, `
 (1452, 'Amagami-san Chi no Enmusubi', 'Tying the Knot with an Amagami Sister', '1', '24', 'Airing', 'NOT YET'),
 (1453, 'Kekkon suru tte, Hontou desu ka', '365 Days to the Wedding', '1', '12', 'Completed', 'NOT YET'),
 (1454, 'Ao No Hako', 'Blue Box', '1', '25', 'Airing', 'NOT YET'),
-(1457, 'Yoru no Kurage wa Oyogenai', 'Jellyfish Can\'t Swim in the Night', '1', '12', 'Completed', 'NOT YET');
+(1457, 'Yoru no Kurage wa Oyogenai', 'Jellyfish Can\'t Swim in the Night', '1', '12', 'Completed', 'YES'),
+(1458, 'Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi', 'Headhunted to Another World: From Salaryman to Big Four!', '1', '12', 'Airing', 'NOT YET'),
+(1459, 'Magic Maker: Isekai Mahou no Tsukurikata', 'Magic Maker: How to Make Magic in Another World', '1', '12', 'Airing', 'NOT YET'),
+(1460, 'Akuyaku Reijou Tensei Ojisan', 'From Bureaucrat to Villainess: Dad\'s Been Reincarnated!', '1', '12', 'Airing', 'NOT YET'),
+(1461, 'Izure Saikyou no Renkinjutsushi?', 'Possibly the Greatest Alchemist of All Time', '1', '12', 'Airing', 'NOT YET'),
+(1462, 'Ai Yori Aoshi', 'Bluer Than Indigo', '1', '24', 'Completed', 'NOT YET'),
+(1463, 'Hira Garu', 'Healer Girl', '1', '12', 'Completed', 'NOT YET'),
+(1464, 'Kanata no Astra', 'Astra Lost in Space', '1', '12', 'Completed', 'NOT YET'),
+(1465, 'Eiga Daisuki Pompo-san', 'Pompo: The Cinéphile', 'MOVIE', '1', 'Completed', 'NOT YET'),
+(1466, 'Kuroshitsuji', 'Black Butler', '1', '24', 'Completed', 'NOT YET'),
+(1467, 'Kuroshitsuji II', 'Black Butler II', '2', '24', 'Completed', 'NOT YET'),
+(1468, 'Kuroshitsuji: Book of Circus', 'Black Butler: Book of Circus', '3', '10', 'Completed', 'NOT YET'),
+(1469, 'Kuroshitsuji Movie: Book of the Atlantic', 'Black Butler: Book of the Atlantic', 'MOVIE 3.1', '1', 'Completed', 'NOT YET'),
+(1470, 'Kuroshitsuji: Kishuku Gakkou-hen', 'Black Butler: Public School Arc', '4', '11', 'Completed', 'NOT YET'),
+(1471, 'Garuzu Bando Kurai', 'Girls Band Cry', '1', '13', 'Completed', 'NOT YET'),
+(1472, 'Sasayaku You ni Koi wo Utau', 'Whisper Me a Love Song', '1', '12', 'Completed', 'NOT YET'),
+(1473, 'Kakuchou Shoujo-kei Trinary', 'Augmented Reality Girls Trinary', '1', '?', '?', 'NOT YET'),
+(1474, 'Koppukurafuto Doragunetto Miraju Rirodeddo', 'Cop Craft: Dragnet Mirage Reloaded', '1', '12', 'Completed', 'NOT YET'),
+(1475, 'Tsuma, Shougakusei ni Naru.', 'If My Wife Becomes an Elementary School Student', '1', '12', 'Completed', 'NOT YET'),
+(1476, 'Class no Daikirai na Joshi to Kekkon suru Koto ni Natta', 'I\'m Getting Married to a Girl I Hate in My Class', '1', '12', 'Airing', 'NOT YET'),
+(1477, 'Black Lagoon', 'Black Lagoon', '1', '12', 'Completed', 'NOT YET'),
+(1478, 'Black Lagoon: The Second Barrage', 'Black Lagoon: The Second Barrage', '2', '12', 'Completed', 'NOT YET'),
+(1479, 'Mayoi Neko Overrun!', 'Stray Cats Overrun!', '1', '13', 'Completed', 'NOT YET'),
+(1480, 'Atsumare! Fushigi Kenkyu-bu', 'Gather! Mystery Research Club', '1', '?', '?', 'NOT YET'),
+(1482, 'Shiro Seijo to Kuro Bokushi', 'Saint Cecilia and Pastor Lawrence', '1', '12', 'Completed', 'NOT YET'),
+(1483, 'Granblue Fantasy: The Animation', 'Granblue Fantasy: The Animation', '1', '13', 'Completed', 'NOT YET'),
+(1484, 'Granblue Fantasy: The Animation Season 2', 'Granblue Fantasy: The Animation Season 2', '2', '12', 'Completed', 'NOT YET'),
+(1485, 'Arakawa Under the Bridge', 'Arakawa Under the Bridge', '1', '13', 'Completed', 'NOT YET'),
+(1486, 'Arakawa Under the Bridge x Bridge', 'Arakawa Under the Bridge x Bridge', '2', '13', 'Completed', 'NOT YET'),
+(1487, 'Flying Witch', 'Flying Witch', '1', '12', 'Completed', 'NOT YET'),
+(1488, 'Mahoromatic: Automatic Maiden', 'Mahoromatic: Automatic Maiden', '1', '12', 'Completed', 'NOT YET'),
+(1489, 'Mahoromatic: Motto Utsukushii Mono', 'Mahoromatic ~Something More Beautiful~', '2', '14', 'Completed', 'NOT YET'),
+(1490, 'Yondemasuyo, Azazeru-san', 'You\'re Being Summoned, Azazel', '1', '13', 'Completed', 'NOT YET'),
+(1491, 'Shoujo Shuumatsu Ryokou', 'Girls\' Last Tour', '1', '12', 'Completed', 'NOT YET'),
+(1492, 'Kumichou Musume to Sewagakari', 'The Yakuza Guide to Babysitting', '1', '12', 'Completed', 'NOT YET'),
+(1493, 'Under Ninja', 'Under Ninja', '1', '12', 'Completed', 'NOT YET'),
+(1494, 'Kusoge Hunter, Kamige ni Idoman to su', 'Shangri-La Frontier', '1', '25', 'Completed', 'NOT YET'),
+(1495, 'Kusoge Hunter, Kamige ni Idoman to su 2nd Season', 'Shangri-La Frontier Season 2', '2', '25', 'Airing', 'NOT YET'),
+(1496, 'Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu', 'The Do-Over Damsel Conquers The Dragon Emperor', '1', '12', 'Completed', 'NOT YET'),
+(1497, 'Kimi wa Meido-sama', 'You are Ms. Servant', '1', '12', 'Completed', 'NOT YET'),
+(1498, 'Kekkon suru tte, Hontou desu ka', '365 Days to the Wedding', '1', '12', 'Completed', 'NOT YET'),
+(1499, 'Maou 2099', 'Demon Lord 2099', '1', '12', 'Completed', 'NOT YET'),
+(1500, 'Kabushikigaisha Magi-Lumière', 'Magilumiere Magical Girls Inc.', '1', '12', 'Completed', 'NOT YET'),
+(1501, 'Acro Trip', 'Acro Trip', '1', '12', 'Completed', 'NOT YET'),
+(1502, 'Manaria Friends', 'Mysteria Friends', '1', '10', 'Completed', 'NOT YET'),
+(1503, 'Isekai no Seikishi Monogatari', 'Tenchi Muyo! War on Geminar', '1', '13', 'Completed', 'NOT YET'),
+(1504, 'GYO: Tokyo Fish Attack!', 'GYO: Tokyo Fish Attack!', 'MOVIE', '1', 'Completed', 'NOT YET'),
+(1505, 'Burn the Witch', 'Burn the Witch', '1', '3', 'Completed', 'NOT YET'),
+(1506, 'Nagi no Asu kara', 'A Lull in the Sea', '1', '26', 'Completed', 'NOT YET'),
+(1507, 'Genshiken', 'Genshiken', '1', '12', 'Completed', 'NOT YET'),
+(1508, 'Genshiken 2', 'Genshiken 2', '2', '12', 'Completed', 'NOT YET'),
+(1509, 'Genshiken Nidaime', 'Genshiken Second Season', '3', '13', 'Completed', 'NOT YET'),
+(1510, 'Trapezium', 'Trapezium', 'MOVIE', '1', 'Airing', 'NOT YET'),
+(1511, 'Strawberry Marshmallow', 'Strawberry Marshmallow', '1', '12', 'Completed', 'NOT YET'),
+(1512, 'Houkago Shounen Hanako-kun', 'After-School Hanako-kun', '2', '4', 'Completed', 'NOT YET'),
+(1513, 'After-School Hanako-kun Part 2', 'Houkago Shounen Hanako-kun Part 2', '3', '4', 'Completed', 'NOT YET'),
+(1514, 'Jibaku Shounen Hanako-kun 2', 'Toilet-Bound Hanako-kun Season 2', '4', '12', 'Airing', 'NOT YET');
 
 --
 -- Indexes for dumped tables
@@ -1515,7 +1570,7 @@ ALTER TABLE `list`
 -- AUTO_INCREMENT for table `list`
 --
 ALTER TABLE `list`
-  MODIFY `ani_ID` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=1458;
+  MODIFY `ani_ID` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=1515;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;

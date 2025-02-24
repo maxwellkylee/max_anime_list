@@ -52,7 +52,7 @@
             <input type="hidden" id="ani_ID">
             <p>Japanese Name: </p><input type="text" id="jap_name" required><br>
             <p>English Name: </p><input type="text" id="eng_name" required><br>
-            <p>Season: </p><input type="number" id="season" required><br>
+            <p>Season: </p><input type="text" id="season" required><br>
             <p>Episodes: </p><input type="text" id="eps" required><br>
             <p>Status: </p><input type="text" id="stat" required><br>
             <p>Watched? </p><input type="text" id="watched" required><br>

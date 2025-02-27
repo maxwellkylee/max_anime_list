@@ -1,3 +1,61 @@
+/* Monitor ko */
+@media screen and (min-width: 1800px) {
+    body {
+        padding: 2em;
+    }
+
+    .header {
+        padding-block: 40px;
+        padding-inline: 26px;
+    }
+
+    .header > .pindutan {
+        height: 3.2em;
+    }
+
+    .header > .pindutan > .pindutanTalaga {
+        font-size: 1.3em;
+        height: 2em;
+        width: 6em;
+    }
+
+    .header > .searchBar {
+        font-size: 1.5em;
+    }
+
+    .header > .searchBar > #search-input {
+        height: 2em;
+        font-size: .7em;
+    }
+
+    .listDiv {
+        padding-left: .7em;
+        padding-right: .5em;
+    }
+
+    .listDiv::-webkit-scrollbar {
+        width: 1em;
+    }
+    
+    .listDiv::-webkit-scrollbar-thumb {
+        height: 2.5em;
+    }
+
+    #anime-modal > #anime-form > p {
+        padding-left: .5em;
+        height: 1.5em;
+    }
+
+    #anime-modal > #anime-form > input {
+        width: 30em;
+    }
+
+    #anime-modal > #anime-form > .save-btn {
+        width: 5em;
+        padding: .5em;
+    }
+}
+
 /* laptop-L */
 @media screen and (max-width: 1650px) {
     .header {

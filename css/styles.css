@@ -170,7 +170,7 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background: white;
+    background: #bcccdc;
     z-index: 2;
     padding: 20px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
@@ -197,15 +197,15 @@ body {
 
 #anime-modal > #anime-form > .save-btn {
     font-size: 1em;
-    background-color: #05a705;
-    border: 1px #05a705;
-    color: white;
+    background-color: #eeeeee;
+    border: 1px #cfcfcf;
+    color: #000000;
     align-self: center;
     border-radius: 15px;
 }
 
 #anime-modal > #anime-form > .save-btn:hover {
-    background-color: #028602;
+    background-color: #d8d6d6;
     cursor: pointer;
 }
 

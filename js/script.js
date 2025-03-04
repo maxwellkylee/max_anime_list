@@ -18,8 +18,10 @@ $(document).ready(function () {
 
     function showSuccessModal(message) {
         $('#success-modal p').text(message);
+        $('#added-modal-overlay').fadeIn();
         $('#success-modal').fadeIn();
         setTimeout(() => {
+            $('#added-modal-overlay').fadeOut();
             $('#success-modal').fadeOut();
         }, 2000);
     }

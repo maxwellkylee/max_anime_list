@@ -60,6 +60,7 @@
         </form>
     </div>
 
+    <div id="added-modal-overlay"></div>
     <div id="success-modal" class="added-modal">
         <div class="modal-success-prompt">
             <p>Anime saved successfully!</p>

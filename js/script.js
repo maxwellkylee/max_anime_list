@@ -16,6 +16,14 @@ $(document).ready(function () {
         $('#ani_ID').val('');
     }
 
+    function showSuccessModal(message) {
+        $('#success-modal p').text(message);
+        $('#success-modal').fadeIn();
+        setTimeout(() => {
+            $('#success-modal').fadeOut();
+        }, 2000);
+    }
+
     $('#add-anime').click(function () {
         openModal();
     });
@@ -67,16 +75,11 @@ $(document).ready(function () {
             method: 'POST',
             data: formData,
             success: function () {
-                alert('Anime saved successfully!');
+                showSuccessModal('Anime saved successfully!');
                 closeModal();
                 loadAnimeList();
             }
         });
-    });
-
-    $('#search-button').click(function () {
-        const searchTerm = $('#search-input').val().toLowerCase();
-        filterAnimeList(searchTerm);
     });
 
     $('#search-input').on('input', function () {
@@ -130,7 +133,7 @@ $(document).ready(function () {
                 method: 'POST',
                 data: { action: 'delete', ani_ID },
                 success: function () {
-                    alert('Anime deleted successfully!');
+                    showSuccessModal('Anime deleted successfully!');
                     loadAnimeList();
                 }
             });

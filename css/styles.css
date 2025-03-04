@@ -226,7 +226,8 @@ body {
     flex-direction: column;
 }
 
-#added-modal-overlay {
+#added-modal-overlay,
+#delete-modal-overlay {
     display: none;
     position: fixed;
     top: 0;
@@ -289,15 +290,4 @@ body {
 #confirm-modal > .confirm-btns > #no-delete {
     background: #C1BAA1;
     color: white;
-}
-
-#delete-modal-overlay {
-    display: none;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: rgba(0, 0, 0, 0.5);
-    z-index: 2;
 }

@@ -55,6 +55,21 @@
         width: 5em;
         padding: .5em;
     }
+
+    #confirm-modal {
+        width: 40em;
+    }
+
+    #confirm-modal p {
+        margin-bottom: .5em;
+        font-size: 1.5em;    
+    }
+
+    #confirm-modal > .confirm-btns > button {
+        padding: .5em 1em;
+        margin: 0 1em;
+        font-size: 1.2em;
+    }
 }
 
 /* laptop-L */
@@ -126,6 +141,20 @@
     #anime-modal > #anime-form > .save-btn {
         width: 5em;
         padding: .5em;
+    }
+
+    #confirm-modal {
+        width: 400px;
+    }
+
+    #confirm-modal p {
+        margin-bottom: 20px;
+        font-size: 18px;    
+    }
+
+    #confirm-modal > .confirm-btns > button {
+        padding: 10px 20px;
+        margin: 0 10px;
     }
 }
 
@@ -231,5 +260,19 @@
     #anime-modal > #anime-form > .save-btn {
         width: 4em;
         padding: .2em;
+    }
+
+    #confirm-modal {
+        width: 15em;
+    }
+
+    #confirm-modal p {
+        margin-bottom: .5em;
+        font-size: .7em;
+    }
+
+    #confirm-modal > .confirm-btns > button {
+        padding: .5em 1em;
+        margin: 0 .5em;
     }
 }

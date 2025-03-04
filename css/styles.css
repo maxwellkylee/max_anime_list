@@ -263,7 +263,6 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 400px;
     padding: 20px;
     background: #7E6363;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
@@ -273,25 +272,21 @@ body {
 }
 
 #confirm-modal p {
-    margin-bottom: 20px;
-    font-size: 18px;
     color: #FFFFFF;
 }
 
-.confirm-btns button {
-    padding: 10px 20px;
-    margin: 0 10px;
+#confirm-modal > .confirm-btns > button {
     border: none;
     cursor: pointer;
     border-radius: 5px;
 }
 
-#yes-delete {
+#confirm-modal > .confirm-btns > #yes-delete {
     background: #D84040;
     color: white;
 }
 
-#no-delete {
+#confirm-modal > .confirm-btns > #no-delete {
     background: #C1BAA1;
     color: white;
 }

@@ -67,6 +67,15 @@
         </div>
     </div>
 
+    <div id="delete-modal-overlay"></div>
+    <div id="confirm-modal">
+        <p>Are you sure you want to delete this anime?</p>
+        <div class="confirm-btns">
+            <button id="yes-delete">Yes</button>
+            <button id="no-delete">No</button>
+        </div>
+    </div>
+
     <div class="footer">
         
     </div>

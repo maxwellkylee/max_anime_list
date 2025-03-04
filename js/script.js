@@ -122,7 +122,7 @@ $(document).ready(function () {
                     <td>${anime.watched}</td>
                     <td class="pindutanSaScr">
                         <button class="edit-btn" data-id="${anime.ani_ID}">Edit</button>
-                        <button class="delete-btn" data-id="${anime.ani_ID}">Delete</button>
+                        <button class="delete-btn" data-id="${anime.ani_ID}" data-name="${anime.eng_name}">Delete</button>
                     </td>
                 </tr>
             `);
@@ -130,16 +130,28 @@ $(document).ready(function () {
 
         $('.delete-btn').click(function () {
             const ani_ID = $(this).data('id');
-            $.ajax({
-                url: './connection.php',
-                method: 'POST',
-                data: { action: 'delete', ani_ID },
-                success: function () {
-                    showSuccessModal('Anime deleted successfully!');
-                    loadAnimeList();
-                }
+            const eng_name = $(this).data('name');
+
+            $('#confirm-modal p').text(`Are you sure you want to delete '${eng_name}'?`);
+            $('#delete-modal-overlay, #confirm-modal').fadeIn();
+
+            $('#yes-delete').off('click').on('click', function () {
+                $.ajax({
+                    url: './connection.php',
+                    method: 'POST',
+                    data: { action: 'delete', ani_ID },
+                    success: function () {
+                        showSuccessModal('Anime deleted successfully!');
+                        loadAnimeList();
+                        $('#delete-modal-overlay, #confirm-modal').fadeOut();
+                    }
+                });
             });
-        });
+
+            $('#no-delete, #delete-modal-overlay').click(function () {
+                $('#delete-modal-overlay, #confirm-modal').fadeOut();
+            });
+        });        
     }
 
     $('.sortable').click(function () {

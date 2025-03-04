@@ -72,7 +72,10 @@ body {
 .listDiv > .tableSaIndex > thead {
     background-color: #9AA6B2; 
     color: #ffffff;
+    top: 0;
+    position: sticky;
 }
+
 
 .listDiv > .tableSaIndex > thead > tr > .sortable {
     cursor: pointer;

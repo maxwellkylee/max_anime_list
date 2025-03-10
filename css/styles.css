@@ -510,10 +510,10 @@ nav > h1 > a {
         font-size: .3em;
     }
 
-    .listDiv > .tableSaIndex > #anime-list > .listahan > .pindutanSaScr {
+    /* .listDiv > .tableSaIndex > #anime-list > .listahan > .pindutanSaScr {
         display: flex;
         flex-direction: column;
-    }
+    } */
     
 
     .listDiv > .tableSaIndex > #anime-list > .listahan > .pindutanSaScr > .edit-btn,

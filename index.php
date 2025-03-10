@@ -9,21 +9,25 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <script src="./js/script.js"></script>
     <link rel="stylesheet" href="./css/styles.css">
-    <link rel="stylesheet" href="./css/responsive.css">
+    <!-- <link rel="stylesheet" href="./css/responsive.css"> -->
 </head>
 <body>
-
-    <div class="header">
+    <nav>
         <h1>
             <a href="../max_anime_list">ANIME LIST</a>
         </h1>
-        <div class="pindutan">
-            <button id="add-anime" class="pindutanTalaga">Add Anime</button>
+
+        <div class="box-button">
+            <div id="search-container" class="searchBar">
+                <input type="text" id="search-input" placeholder="Search Anime...">
+            </div>
+            <div class="pindutan">
+                <button id="add-anime" class="pindutanTalaga">Add Anime</button>
+            </div>
         </div>
-        <div id="search-container" class="searchBar">
-            <input type="text" id="search-input" placeholder="Search Anime...">
-        </div>
-    </div>
+    </nav>
+    
+
         
     <div class="listDiv">
         <!-- <h2>My List</h2> -->

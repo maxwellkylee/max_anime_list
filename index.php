@@ -15,7 +15,7 @@
 
     <div class="header">
         <h1>
-            <a href="../anime_list">ANIME LIST</a>
+            <a href="../max_anime_list">ANIME LIST</a>
         </h1>
         <div class="pindutan">
             <button id="add-anime" class="pindutanTalaga">Add Anime</button>

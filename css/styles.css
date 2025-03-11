@@ -20,16 +20,28 @@ nav {
     z-index: 1;
 }
 
+nav > .icon-title {
+    z-index: 2;
+    display: flex;
+    align-items: center;
+    margin-left: 1.5em;
+}
+
+/* nav > .icon-title > img {
+    height: 4.3em;
+    width: 4.3em;
+} */
+
 nav > .box-button {
     display: flex;
 }
 
-nav > h1 > a {
+nav > .icon-title > h1 > a {
     cursor: pointer;
     text-decoration: none;
     color: #FFFFFF;
     align-content: center;
-    margin-left: 1em;
+    margin-left: .7em;
 }
 
 .pindutan > .pindutanTalaga {
@@ -294,7 +306,7 @@ nav > h1 > a {
         padding: 2em;
     }
 
-    .header {
+    /* .header {
         padding-top: 20px;
         padding-bottom: 40px;
         padding-inline: 26px;
@@ -317,7 +329,7 @@ nav > h1 > a {
     .header > .searchBar > #search-input {
         height: 2em;
         font-size: .7em;
-    }
+    } */
 
     .listDiv {
         padding-left: .7em;
@@ -363,8 +375,13 @@ nav > h1 > a {
 }
 
 /* laptop-L */
-@media screen and (max-width: 1650px) {
-    nav > h1 > a {
+@media screen and (min-width: 1000px) and (max-width: 1650px) {
+    nav > .icon-title > img {
+        height: 4.3em;
+        width: 4.3em;
+    }
+    
+    nav > .icon-title > h1 > a {
         font-size: 1.5em;
         letter-spacing: .5em;
     }
@@ -448,12 +465,21 @@ nav > h1 > a {
 }
 
 /* mobile-L */
-@media screen and (max-width: 430px) {    
+@media screen and (min-width: 321px) and (max-width: 430px) {    
     nav {
         height: 3em;
     }
 
-    nav > h1 > a {
+    nav > .icon-title {
+        margin-left: 1em;
+    }
+
+    nav > .icon-title > img {
+        height: 2.5em;
+        width: 2.5em;
+    }
+
+    nav > .icon-title > h1 > a {
         font-size: .8em;
         letter-spacing: .2em;
     }
@@ -463,18 +489,18 @@ nav > h1 > a {
     }
 
     nav > .box-button > .searchBar > #search-input {
-        font-size: .4em;
+        font-size: .53em;
         border-radius: .5em;
         /* height: 2.2em; */
         outline: none;
     }
 
     nav > .box-button > .searchBar > #search-input {
-        margin-right: 2em;
+        margin-right: 1em;
     }
 
     nav > .box-button > .pindutan > .pindutanTalaga {
-        font-size: .4em;
+        font-size: .53em;
         /* height: 2.2em; */
         padding: .3em;
         border-radius: .5em;
@@ -565,5 +591,33 @@ nav > h1 > a {
     #confirm-modal > .confirm-btns > button {
         padding: .5em 1em;
         margin: 0 .5em;
+    }
+}
+
+/* HONOR LITE 90 -- phone ko */
+@media screen and (max-width: 375px) {
+    nav > .icon-title > img {
+        height: 2.4em;
+        width: 2.4em;
+    }
+
+    nav > .icon-title > h1 > a {
+        font-size: .6em;
+    }
+    
+    nav > .box-button {
+        margin-right: 1em;
+    }
+
+    nav > .box-button > .searchBar > #search-input {
+        font-size: .45em;
+    }
+
+    nav > .box-button > .pindutan > .pindutanTalaga {
+        font-size: .45em;
+    }
+
+    .listDiv {
+        border-radius: 1em;
     }
 }

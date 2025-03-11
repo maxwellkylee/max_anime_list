@@ -9,13 +9,15 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <script src="./js/script.js"></script>
     <link rel="stylesheet" href="./css/styles.css">
-    <!-- <link rel="stylesheet" href="./css/responsive.css"> -->
 </head>
 <body>
     <nav>
-        <h1>
-            <a href="../max_anime_list">ANIME LIST</a>
-        </h1>
+        <div class="icon-title">
+            <img src="./img/rat_cheese_1x1.png" alt="picture" srcset="">
+            <h1>
+                <a href="../max_anime_list">ANIME LIST</a>
+            </h1>
+        </div>
 
         <div class="box-button">
             <div id="search-container" class="searchBar">

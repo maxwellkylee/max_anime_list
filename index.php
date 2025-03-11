@@ -13,7 +13,7 @@
 <body>
     <nav>
         <div class="icon-title">
-            <img src="./img/rat_cheese_1x1.png" alt="picture" srcset="">
+            <img src="./img/jane-gif.gif" alt="picture" srcset="">
             <h1>
                 <a href="../max_anime_list">ANIME LIST</a>
             </h1>

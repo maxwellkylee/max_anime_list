@@ -595,7 +595,7 @@ nav > .icon-title > h1 > a {
 }
 
 /* HONOR LITE 90 -- phone ko */
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 380px) {
     nav > .icon-title > img {
         height: 2.4em;
         width: 2.4em;

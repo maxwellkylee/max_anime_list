@@ -58,6 +58,7 @@ nav > .icon-title > h1 > a {
 .searchBar > #search-input {
     background-color: #F8FAFC;
     border: 1px #F8FAFC;
+    outline: none;
 }
 
 .searchBar > #search-input:hover {
@@ -425,7 +426,6 @@ nav > .icon-title > h1 > a {
         font-size: 1em;
         border-radius: .5em;
         height: 2.2em;
-        outline: none;
     }
 
     nav > .box-button > .searchBar > #search-input {

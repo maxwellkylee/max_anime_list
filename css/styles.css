@@ -213,6 +213,7 @@ nav > .icon-title > h1 > a {
 
 #anime-modal > #anime-form > input {
     align-self: center;
+    outline: none;
 }
 
 #anime-modal > #anime-form > input:hover {

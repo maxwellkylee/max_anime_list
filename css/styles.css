@@ -302,46 +302,76 @@ nav > .icon-title > h1 > a {
 
 /* Monitor ko */
 @media screen and (min-width: 1800px) {
-    body {
-        padding: 2em;
+    nav {
+        height: 6em;
+    }
+    
+    nav > .icon-title {
+        margin-left: 3.2em;
+    }
+    
+    nav > .icon-title > img {
+        height: 5.3em;
+        width: 5.3em;
+    }
+    
+    nav > .icon-title > h1 > a {
+        margin-left: 1.2em;
+        letter-spacing: 1em;
+        font-size: 2em;
     }
 
-    /* .header {
-        padding-top: 20px;
-        padding-bottom: 40px;
-        padding-inline: 26px;
+    nav > .box-button > .searchBar > #search-input {
+        height: 2em;
+        margin-right: 1em;
+        font-size: 1.3em;
+        border-radius: .5em;
     }
 
-    .header > .pindutan {
-        height: 3.2em;
+    nav > .box-button {
+        margin-right: 4em;
     }
 
-    .header > .pindutan > .pindutanTalaga {
+    nav > .box-button > .pindutan > .pindutanTalaga {
         font-size: 1.3em;
         height: 2em;
-        width: 6em;
+        border-radius: .5em;
+        width: 6.5em;
     }
-
-    .header > .searchBar {
-        font-size: 1.5em;
-    }
-
-    .header > .searchBar > #search-input {
-        height: 2em;
-        font-size: .7em;
-    } */
 
     .listDiv {
         padding-left: .7em;
         padding-right: .5em;
+        height: 83vh;
+        font-size: 1em;
     }
 
     .listDiv::-webkit-scrollbar {
-        width: 1em;
+        width: .5em;
     }
     
     .listDiv::-webkit-scrollbar-thumb {
-        height: 2.5em;
+        height: 2em;
+    }
+
+    .listDiv > .tableSaIndex > thead > tr > .sortable {
+        padding: 1.1em;
+    }
+
+    .listDiv > .tableSaIndex > #anime-list > .listahan > .aniname {
+        padding-inline: 1em;
+    }
+
+    .listDiv > .tableSaIndex > #anime-list > .listahan > td {
+        padding: .2em;
+        padding-inline: 1em;
+    }
+
+    .listDiv > .tableSaIndex > #anime-list > .listahan > .pindutanSaScr > .edit-btn,
+    .listDiv > .tableSaIndex > #anime-list > .listahan > .pindutanSaScr > .delete-btn  {
+        margin-block: .2em;
+        padding: .2em;
+        font-size: 1em;
     }
 
     #anime-modal > #anime-form > p {

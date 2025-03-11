@@ -379,6 +379,7 @@ nav > .icon-title > h1 > a {
     nav > .icon-title > img {
         height: 4.3em;
         width: 4.3em;
+        margin-left: 1em;
     }
     
     nav > .icon-title > h1 > a {
@@ -387,7 +388,7 @@ nav > .icon-title > h1 > a {
     }
     
     nav > .box-button {
-        margin-right: 2em;
+        margin-right: 3em;
     }
 
     nav > .box-button > .searchBar > #search-input {
@@ -485,7 +486,7 @@ nav > .icon-title > h1 > a {
     }
     
     nav > .box-button {
-        margin-right: 1em;
+        margin-right: 1.5em;
     }
 
     nav > .box-button > .searchBar > #search-input {

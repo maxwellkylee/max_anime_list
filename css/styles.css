@@ -48,7 +48,7 @@ nav > .icon-title > h1 > a {
     background-color: #7E99A3;
     border: 1px #7E99A3;
     cursor: pointer;
-    border-radius: 20px;
+    border-radius: .5em;
 }
 
 .pindutan > .pindutanTalaga:hover {
@@ -59,6 +59,7 @@ nav > .icon-title > h1 > a {
     background-color: #F8FAFC;
     border: 1px #F8FAFC;
     outline: none;
+    border-radius: .5em;
 }
 
 .searchBar > #search-input:hover {
@@ -327,7 +328,6 @@ nav > .icon-title > h1 > a {
         height: 2em;
         margin-right: 1em;
         font-size: 1.3em;
-        border-radius: .5em;
     }
 
     nav > .box-button {
@@ -337,7 +337,6 @@ nav > .icon-title > h1 > a {
     nav > .box-button > .pindutan > .pindutanTalaga {
         font-size: 1.3em;
         height: 2em;
-        border-radius: .5em;
         width: 6.5em;
     }
 
@@ -425,7 +424,6 @@ nav > .icon-title > h1 > a {
 
     nav > .box-button > .searchBar > #search-input {
         font-size: 1em;
-        border-radius: .5em;
         height: 2.2em;
     }
 
@@ -437,7 +435,6 @@ nav > .icon-title > h1 > a {
         font-size: 1.05em;
         height: 2.2em;
         padding: .3em;
-        border-radius: .5em;
     }
 
     .listDiv {
@@ -517,25 +514,18 @@ nav > .icon-title > h1 > a {
     }
     
     nav > .box-button {
-        margin-right: 1.5em;
+        margin-right: 1.2em;
     }
 
     nav > .box-button > .searchBar > #search-input {
-        font-size: .53em;
-        border-radius: .5em;
-        /* height: 2.2em; */
-        outline: none;
-    }
-
-    nav > .box-button > .searchBar > #search-input {
-        margin-right: 1em;
+        margin-right: .8em;
+        font-size: .5em;
+        height: 1.7em;
     }
 
     nav > .box-button > .pindutan > .pindutanTalaga {
-        font-size: .53em;
-        /* height: 2.2em; */
-        padding: .3em;
-        border-radius: .5em;
+        font-size: .5em;
+        height: 2em;
     }
 
     .listDiv {
@@ -566,13 +556,7 @@ nav > .icon-title > h1 > a {
     .listDiv > .tableSaIndex > #anime-list > .listahan > td {
         word-break: keep-all;
         font-size: .3em;
-    }
-
-    /* .listDiv > .tableSaIndex > #anime-list > .listahan > .pindutanSaScr {
-        display: flex;
-        flex-direction: column;
-    } */
-    
+    }    
 
     .listDiv > .tableSaIndex > #anime-list > .listahan > .pindutanSaScr > .edit-btn,
     .listDiv > .tableSaIndex > #anime-list > .listahan > .pindutanSaScr > .delete-btn  {

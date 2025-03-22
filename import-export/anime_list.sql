@@ -1500,7 +1500,7 @@ INSERT INTO `list` (`ani_ID`, `jap_name`, `eng_name`, `season`, `eps`, `stat`, `
 INSERT INTO `list` (`ani_ID`, `jap_name`, `eng_name`, `season`, `eps`, `stat`, `watched`) VALUES (1500, "Kabushikigaisha Magi-Lumière", "Magilumiere Magical Girls Inc.", "1", "12", "Completed", "NOT YET");
 INSERT INTO `list` (`ani_ID`, `jap_name`, `eng_name`, `season`, `eps`, `stat`, `watched`) VALUES (1501, "Acro Trip", "Acro Trip", "1", "12", "Completed", "NOT YET");
 INSERT INTO `list` (`ani_ID`, `jap_name`, `eng_name`, `season`, `eps`, `stat`, `watched`) VALUES (1502, "Manaria Friends", "Mysteria Friends", "1", "10", "Completed", "NOT YET");
-INSERT INTO `list` (`ani_ID`, `jap_name`, `eng_name`, `season`, `eps`, `stat`, `watched`) VALUES (1503, "Isekai no Seikishi Monogatari", "Tenchi Muyo! War on Geminar", "1", "13", "Completed", "YES");
+INSERT INTO `list` (`ani_ID`, `jap_name`, `eng_name`, `season`, `eps`, `stat`, `watched`) VALUES (1503, "Isekai no Seikishi Monogatari", "Tenchi Muyo! War on Geminar", "1", "13", "Completed", "NOT YET");
 INSERT INTO `list` (`ani_ID`, `jap_name`, `eng_name`, `season`, `eps`, `stat`, `watched`) VALUES (1504, "GYO: Tokyo Fish Attack!", "GYO: Tokyo Fish Attack!", "MOVIE", "1", "Completed", "NOT YET");
 INSERT INTO `list` (`ani_ID`, `jap_name`, `eng_name`, `season`, `eps`, `stat`, `watched`) VALUES (1505, "Burn the Witch", "Burn the Witch", "1", "3", "Completed", "NOT YET");
 INSERT INTO `list` (`ani_ID`, `jap_name`, `eng_name`, `season`, `eps`, `stat`, `watched`) VALUES (1506, "Nagi no Asu kara", "A Lull in the Sea", "1", "26", "Completed", "NOT YET");

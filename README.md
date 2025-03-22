@@ -14,3 +14,12 @@ connection modifications:
     $db = 'anime';
     $user = 'root';
     $pass = '';
+
+bat scheduler ==
+    - Open Task Scheduler (Win + R, type taskschd.msc, press Enter).
+    - Click "Create Basic Task" (right side panel).
+    - Name it (e.g., AutoUpdateAnime).
+    - Trigger: Select "Daily", "Hourly", or "On system startup" (your choice).
+    - Action: Choose "Start a Program".
+    - Browse for scheduler.bat inside import-export/.
+    - Finish & Enable Task.

@@ -13064,8 +13064,8 @@
         "eng_name": "Possibly the Greatest Alchemist of All Time",
         "season": "1",
         "eps": "12",
-        "stat": "Airing",
-        "watched": "NOT YET"
+        "stat": "Completed",
+        "watched": "YES"
     },
     {
         "ani_ID": 1462,
@@ -13199,8 +13199,8 @@
         "eng_name": "I'm Getting Married to a Girl I Hate in My Class",
         "season": "1",
         "eps": "12",
-        "stat": "Airing",
-        "watched": "NOT YET"
+        "stat": "Completed",
+        "watched": "YES"
     },
     {
         "ani_ID": 1477,
@@ -13847,8 +13847,8 @@
         "eng_name": "Bogus Skill \"Fruitmaster\": About That Time I Became Able to Eat Unlimited Numbers of Skill Fruits (That Kill You)",
         "season": "1",
         "eps": "12",
-        "stat": "Airing",
-        "watched": "NOT YET"
+        "stat": "Completed",
+        "watched": "YES"
     },
     {
         "ani_ID": 1552,
@@ -13901,6 +13901,15 @@
         "eng_name": "Lookism",
         "season": "1",
         "eps": "8",
+        "stat": "Completed",
+        "watched": "YES"
+    },
+    {
+        "ani_ID": 1558,
+        "jap_name": "Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwametemita",
+        "eng_name": "I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic",
+        "season": "1",
+        "eps": "12",
         "stat": "Completed",
         "watched": "YES"
     }

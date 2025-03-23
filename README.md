@@ -23,3 +23,4 @@ bat scheduler ==
     - Action: Choose "Start a Program".
     - Browse for scheduler.bat inside import-export/.
     - Finish & Enable Task.
+    - Run

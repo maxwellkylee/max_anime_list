@@ -1554,3 +1554,5 @@ INSERT INTO `list` (`ani_ID`, `jap_name`, `eng_name`, `season`, `eps`, `stat`, `
 INSERT INTO `list` (`ani_ID`, `jap_name`, `eng_name`, `season`, `eps`, `stat`, `watched`) VALUES (1556, "Neet de Otaku na Kunoichi to Nazeka Dousei Hajimemashita", "I'm Living with an Otaku Neet Kunoichi!?", "1", "24", "Airing", "NOT YET");
 INSERT INTO `list` (`ani_ID`, `jap_name`, `eng_name`, `season`, `eps`, `stat`, `watched`) VALUES (1557, "Gaiken Shijou Shugi", "Lookism", "1", "8", "Completed", "YES");
 INSERT INTO `list` (`ani_ID`, `jap_name`, `eng_name`, `season`, `eps`, `stat`, `watched`) VALUES (1558, "Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwametemita", "I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic", "1", "12", "Completed", "YES");
+INSERT INTO `list` (`ani_ID`, `jap_name`, `eng_name`, `season`, `eps`, `stat`, `watched`) VALUES (1559, "Ameku Takao no Suiri Karte", "Ameku M.D.: Doctor Detective", "1", "12", "Airing", "NOT YET");
+INSERT INTO `list` (`ani_ID`, `jap_name`, `eng_name`, `season`, `eps`, `stat`, `watched`) VALUES (1560, "Witch Watch", "Witch Watch", "1", "12", "?", "NOT YET");

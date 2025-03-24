@@ -13912,5 +13912,23 @@
         "eps": "12",
         "stat": "Completed",
         "watched": "YES"
+    },
+    {
+        "ani_ID": 1559,
+        "jap_name": "Ameku Takao no Suiri Karte",
+        "eng_name": "Ameku M.D.: Doctor Detective",
+        "season": "1",
+        "eps": "12",
+        "stat": "Airing",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1560,
+        "jap_name": "Witch Watch",
+        "eng_name": "Witch Watch",
+        "season": "1",
+        "eps": "12",
+        "stat": "?",
+        "watched": "NOT YET"
     }
 ]

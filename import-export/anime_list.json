@@ -13930,5 +13930,14 @@
         "eps": "12",
         "stat": "?",
         "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1561,
+        "jap_name": "Zenshuu",
+        "eng_name": "Zenshu",
+        "season": "1",
+        "eps": "12",
+        "stat": "Completed",
+        "watched": "YES"
     }
 ]

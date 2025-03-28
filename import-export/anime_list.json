@@ -12606,7 +12606,7 @@
         "season": "1",
         "eps": "12",
         "stat": "Completed",
-        "watched": "NOT YET"
+        "watched": "YES"
     },
     {
         "ani_ID": 1406,
@@ -13829,7 +13829,7 @@
         "eng_name": "Sky Blue Utility",
         "season": "1",
         "eps": "?",
-        "stat": "Airing",
+        "stat": "Completed",
         "watched": "NOT YET"
     },
     {
@@ -13937,6 +13937,33 @@
         "eng_name": "Zenshu",
         "season": "1",
         "eps": "12",
+        "stat": "Completed",
+        "watched": "YES"
+    },
+    {
+        "ani_ID": 1562,
+        "jap_name": "Isshun de Chiryou shiteita noni Yakutatazu to Tsuihou sareta Tensai Chiyushi, Yami Healer toshite Tanoshiku Ikiru",
+        "eng_name": "The Brilliant Healer's New Life in the Shadows",
+        "season": "1",
+        "eps": "12",
+        "stat": "?",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1563,
+        "jap_name": "Ousama Game The Animation",
+        "eng_name": "King's Game",
+        "season": "1",
+        "eps": "12",
+        "stat": "Completed",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1564,
+        "jap_name": "Fugou Keiji: Balance:Unlimited",
+        "eng_name": "The Millionaire Detective – Balance: Unlimited",
+        "season": "1",
+        "eps": "11",
         "stat": "Completed",
         "watched": "YES"
     }

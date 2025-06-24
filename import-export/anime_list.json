@@ -9280,7 +9280,7 @@
     },
     {
         "ani_ID": 1032,
-        "jap_name": "One Piece (1119)",
+        "jap_name": "One Piece (1126)",
         "eng_name": "One Piece",
         "season": "1",
         "eps": "?",
@@ -11705,7 +11705,7 @@
         "eng_name": "I've Been Killing Slimes for 300 Years and Maxed Out My Level 2",
         "season": "2",
         "eps": "12",
-        "stat": "Airing",
+        "stat": "Completed",
         "watched": "NOT YET"
     },
     {
@@ -12578,7 +12578,7 @@
         "eng_name": "Fell in Love with an Okinawan Girl, but I Just Wish I Know What She's Saying",
         "season": "1",
         "eps": "12",
-        "stat": "Airing",
+        "stat": "Completed",
         "watched": "NOT YET"
     },
     {
@@ -12587,7 +12587,7 @@
         "eng_name": "From Old Country Bumpkin to Master Swordsman: My Hotshot Discples Are All Grown Up Now and They Won't Leave Me Alone",
         "season": "1",
         "eps": "12",
-        "stat": "Airing",
+        "stat": "Completed",
         "watched": "NOT YET"
     },
     {
@@ -12911,7 +12911,7 @@
         "eng_name": "Please Put Them On, Takamine-san",
         "season": "1",
         "eps": "12",
-        "stat": "Airing",
+        "stat": "Completed",
         "watched": "NOT YET"
     },
     {
@@ -13596,7 +13596,7 @@
         "season": "2",
         "eps": "12",
         "stat": "Completed",
-        "watched": "NOT YET"
+        "watched": "YES"
     },
     {
         "ani_ID": 1525,
@@ -13874,7 +13874,7 @@
         "eng_name": "I'm Living with an Otaku Neet Kunoichi!?",
         "season": "1",
         "eps": "24",
-        "stat": "Airing",
+        "stat": "Completed",
         "watched": "NOT YET"
     },
     {
@@ -13928,8 +13928,8 @@
         "eng_name": "The Brilliant Healer's New Life in the Shadows",
         "season": "1",
         "eps": "12",
-        "stat": "Airing",
-        "watched": "NOT YET"
+        "stat": "Completed",
+        "watched": "YES"
     },
     {
         "ani_ID": 1563,
@@ -13955,7 +13955,7 @@
         "eng_name": "The Beginning After the End",
         "season": "1",
         "eps": "12",
-        "stat": "?",
+        "stat": "Airing",
         "watched": "NOT YET"
     },
     {
@@ -14009,7 +14009,7 @@
         "eng_name": "The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom",
         "season": "1",
         "eps": "12",
-        "stat": "Airing",
+        "stat": "Completed",
         "watched": "NOT YET"
     },
     {
@@ -14018,7 +14018,7 @@
         "eng_name": "Wind Breaker Season 2",
         "season": "2",
         "eps": "12",
-        "stat": "Airing",
+        "stat": "Completed",
         "watched": "NOT YET"
     },
     {
@@ -14027,7 +14027,7 @@
         "eng_name": "Fire Force 3",
         "season": "3",
         "eps": "12",
-        "stat": "Airing",
+        "stat": "Completed",
         "watched": "NOT YET"
     },
     {
@@ -14045,7 +14045,7 @@
         "eng_name": "Catch Me at the Ballpark!",
         "season": "1",
         "eps": "12",
-        "stat": "Airing",
+        "stat": "Completed",
         "watched": "NOT YET"
     },
     {
@@ -14063,7 +14063,7 @@
         "eng_name": "Can a Boy-Girl Friendship Survive?",
         "season": "1",
         "eps": "12",
-        "stat": "Airing",
+        "stat": "Completed",
         "watched": "NOT YET"
     },
     {
@@ -14072,7 +14072,7 @@
         "eng_name": "How to Become Ordinary Season 2",
         "season": "2",
         "eps": "12",
-        "stat": "Airing",
+        "stat": "Completed",
         "watched": "NOT YET"
     },
     {
@@ -14090,7 +14090,7 @@
         "eng_name": "Yandere Dark Elf: She Chased Me All the Way From Another World!",
         "season": "1",
         "eps": "12",
-        "stat": "Airing",
+        "stat": "Completed",
         "watched": "NOT YET"
     },
     {
@@ -14135,7 +14135,7 @@
         "eng_name": "Once Upon a Witch's Death",
         "season": "1",
         "eps": "12",
-        "stat": "Airing",
+        "stat": "Completed",
         "watched": "NOT YET"
     },
     {
@@ -14153,7 +14153,7 @@
         "eng_name": "The Super Cube",
         "season": "1",
         "eps": "12",
-        "stat": "Airing",
+        "stat": "Completed",
         "watched": "NOT YET"
     },
     {
@@ -14189,7 +14189,7 @@
         "eng_name": "To Be Hero X",
         "season": "1",
         "eps": "24",
-        "stat": "1",
+        "stat": "Airing",
         "watched": "NOT YET"
     },
     {
@@ -14198,7 +14198,88 @@
         "eng_name": "Goblin Slayer: Goblin",
         "season": "MOVIE 1.1",
         "eps": "1",
-        "stat": "Airing",
+        "stat": "Completed",
         "watched": "YES"
+    },
+    {
+        "ani_ID": 1593,
+        "jap_name": "Sakamoto desu ga?",
+        "eng_name": "Haven't You Heard? I'm Sakamoto",
+        "season": "1",
+        "eps": "12",
+        "stat": "Completed",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1594,
+        "jap_name": "May I Ask for One Final Thing?",
+        "eng_name": "May I Ask for One Final Thing?",
+        "season": "1",
+        "eps": "?",
+        "stat": "?",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1596,
+        "jap_name": "Ore wa Seikan Kokka no Akutoku Ryoushu!",
+        "eng_name": "I'm the Evil Lord of an Intergalactic Empire!",
+        "season": "1",
+        "eps": "12",
+        "stat": "Completed",
+        "watched": "YES"
+    },
+    {
+        "ani_ID": 1597,
+        "jap_name": "Rekishi ni Nokoru Akujo ni Naru zo",
+        "eng_name": "I'll Become a Villainess Who Goes Down in History",
+        "season": "1",
+        "eps": "13",
+        "stat": "Completed",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1598,
+        "jap_name": "Sentai Daishikkaku\tSeason 2",
+        "eng_name": "Go go Go! Go! Loser Ranger! Season 2",
+        "season": "2",
+        "eps": "12",
+        "stat": "Airing",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1599,
+        "jap_name": "Shirobuta Kizoku desu ga Zense no Kioku ga Haeta node Hiyoko na Otouto Sodatemasu",
+        "eng_name": "Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life",
+        "season": "1",
+        "eps": "?",
+        "stat": "Airing",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1600,
+        "jap_name": "Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru",
+        "eng_name": "The Gorilla God's Go-To Girl",
+        "season": "1",
+        "eps": "12",
+        "stat": "Completed",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1601,
+        "jap_name": "Maebashi Witches",
+        "eng_name": "Maebashi Witches",
+        "season": "1",
+        "eps": "12",
+        "stat": "Airing",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1602,
+        "jap_name": "Shiunji-ke no Kodomotachi",
+        "eng_name": "The Shiunji Family Children",
+        "season": "1",
+        "eps": "12",
+        "stat": "Completed",
+        "watched": "NOT YET"
     }
 ]

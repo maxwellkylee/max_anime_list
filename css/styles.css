@@ -321,7 +321,7 @@ nav > .icon-title > h1 > a {
     nav > .icon-title > h1 > a {
         margin-left: 1.2em;
         letter-spacing: 1em;
-        font-size: 2em;
+        font-size: 1.5em;
     }
 
     nav > .box-button > .searchBar > #search-input {
@@ -501,7 +501,7 @@ nav > .icon-title > h1 > a {
     }
 
     nav > .icon-title > h1  > a {
-        font-size: 1.3em;
+        /* font-size: 1.3em; */
         letter-spacing: .45em;
     }
 
@@ -593,7 +593,7 @@ nav > .icon-title > h1 > a {
 
     nav > .icon-title > h1 > a {
         font-size: .8em;
-        letter-spacing: .2em;
+        /* letter-spacing: .2em; */
     }
     
     nav > .box-button {

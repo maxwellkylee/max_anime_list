@@ -13909,7 +13909,7 @@
         "jap_name": "Witch Watch",
         "eng_name": "Witch Watch",
         "season": "1",
-        "eps": "26",
+        "eps": "25",
         "stat": "Airing",
         "watched": "NOT YET"
     },
@@ -13965,7 +13965,7 @@
         "season": "1",
         "eps": "12",
         "stat": "Completed",
-        "watched": "NOT YET"
+        "watched": "YES"
     },
     {
         "ani_ID": 1567,
@@ -14243,7 +14243,7 @@
         "eng_name": "Go go Go! Go! Loser Ranger! Season 2",
         "season": "2",
         "eps": "12",
-        "stat": "Airing",
+        "stat": "Completed",
         "watched": "NOT YET"
     },
     {
@@ -14368,7 +14368,7 @@
         "jap_name": "Kizetsu Yuusha to Ansatsu Hime",
         "eng_name": "The Shy Hero and the Assassin Princesses",
         "season": "1",
-        "eps": "?",
+        "eps": "12",
         "stat": "Airing",
         "watched": "NOT YET"
     },
@@ -14391,15 +14391,6 @@
         "watched": "NOT YET"
     },
     {
-        "ani_ID": 1615,
-        "jap_name": "Tsuihousha Shokudou e Youkoso!",
-        "eng_name": "Welcome to the Outcast's Restaurant!",
-        "season": "1",
-        "eps": "?",
-        "stat": "Airing",
-        "watched": "NOT YET"
-    },
-    {
         "ani_ID": 1616,
         "jap_name": "Koujo Denka no Kateikyoushi",
         "eng_name": "Private Tutor to the Duke's Daughter",
@@ -14413,7 +14404,7 @@
         "jap_name": "Yuusha Party wo Tsuihou sareta Shiromadoushi, S-Rank Boukensha ni Hirowareru: Kono Shiromadoushi ga Kikakugai Sugiru",
         "eng_name": "Scooped Up by an S-Ranked Adventurer",
         "season": "1",
-        "eps": "?",
+        "eps": "12",
         "stat": "Airing",
         "watched": "NOT YET"
     },
@@ -14451,7 +14442,7 @@
         "season": "1",
         "eps": "12",
         "stat": "Completed",
-        "watched": "NOT YET"
+        "watched": "YES"
     },
     {
         "ani_ID": 1622,
@@ -14650,5 +14641,104 @@
         "eps": "11",
         "stat": "Airing",
         "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1644,
+        "jap_name": "Mahou Shoujo Site",
+        "eng_name": "Magical Girl Site",
+        "season": "1",
+        "eps": "12",
+        "stat": "Completed",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1645,
+        "jap_name": "Kimetsu no Yaiba Movie: Mugen Ressha-hen",
+        "eng_name": "Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train",
+        "season": "2",
+        "eps": "1",
+        "stat": "Completed",
+        "watched": "YES"
+    },
+    {
+        "ani_ID": 1646,
+        "jap_name": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+        "eng_name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
+        "season": "5",
+        "eps": "11",
+        "stat": "Completed",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1647,
+        "jap_name": "Kimetsu no Yaiba: Hashira Geiko-hen",
+        "eng_name": "Demon Slayer: Kimetsu no Yaiba Hashira Training Arc",
+        "season": "6",
+        "eps": "8",
+        "stat": "Completed",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1648,
+        "jap_name": "Kimetsu no Yaiba Movie: Mugen Jou-hen",
+        "eng_name": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+        "season": "7",
+        "eps": "1",
+        "stat": "Completed",
+        "watched": "YES"
+    },
+    {
+        "ani_ID": 1649,
+        "jap_name": "Tougen Anki",
+        "eng_name": "Tougen Anki",
+        "season": "1",
+        "eps": "?",
+        "stat": "Airing",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1650,
+        "jap_name": "Ayaka",
+        "eng_name": "Ayaka: A Story of Bonds and Wounds",
+        "season": "1",
+        "eps": "12",
+        "stat": "Completed",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1651,
+        "jap_name": "Tsuyokute New Saga",
+        "eng_name": "New Saga",
+        "season": "1",
+        "eps": "12",
+        "stat": "Airing",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1652,
+        "jap_name": "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita",
+        "eng_name": "There was a Cute Girl in the Hero's Party, so I Tried Confessing to Her",
+        "season": "1",
+        "eps": "?",
+        "stat": "?",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1653,
+        "jap_name": "Watashi wo Tabetai, Hitodenashi",
+        "eng_name": "This Monster Wants to Eat Me",
+        "season": "1",
+        "eps": "?",
+        "stat": "?",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1654,
+        "jap_name": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki",
+        "eng_name": "The Healer Who Was Banished From His Party, Is, in Fact, the Strongest",
+        "season": "1",
+        "eps": "12",
+        "stat": "Completed",
+        "watched": "YES"
     }
 ]

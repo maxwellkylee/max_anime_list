@@ -6436,7 +6436,7 @@
     },
     {
         "ani_ID": 716,
-        "jap_name": "Shokei Shoujo no Virgin Road;",
+        "jap_name": "Shokei Shoujo no Virgin Road",
         "eng_name": "The Executioner and Her Way of Life",
         "season": "1",
         "eps": "12",
@@ -7615,8 +7615,8 @@
     },
     {
         "ani_ID": 847,
-        "jap_name": "Dr. Stone New World Part 2",
-        "eng_name": "Dr. Stone New World Part 2",
+        "jap_name": "Dr. Stone: New World Part 2",
+        "eng_name": "Dr. Stone: New World Part 2",
         "season": "4",
         "eps": "11",
         "stat": "Completed",
@@ -7689,15 +7689,6 @@
         "ani_ID": 855,
         "jap_name": "Kikansha no Mahou wa Tokubetsu desu",
         "eng_name": "A Returner's Magic Should Be Special",
-        "season": "1",
-        "eps": "12",
-        "stat": "Completed",
-        "watched": "YES"
-    },
-    {
-        "ani_ID": 856,
-        "jap_name": "Potion-danomi de Ikinobimasu!",
-        "eng_name": "I Shall Survive Using Potions!",
         "season": "1",
         "eps": "12",
         "stat": "Completed",
@@ -9280,10 +9271,10 @@
     },
     {
         "ani_ID": 1032,
-        "jap_name": "One Piece (1126)",
+        "jap_name": "One Piece",
         "eng_name": "One Piece",
         "season": "1",
-        "eps": "?",
+        "eps": "1156-",
         "stat": "Airing",
         "watched": "NOT YET"
     },
@@ -9950,7 +9941,7 @@
         "eng_name": "Bungou Stray Dogs 5",
         "season": "5",
         "eps": "11",
-        "stat": "Airing",
+        "stat": "Completed",
         "watched": "NOT YET"
     },
     {
@@ -10081,11 +10072,11 @@
     },
     {
         "ani_ID": 1121,
-        "jap_name": "Cells At Work (Movie)",
-        "eng_name": "Cells At Work (Movie)",
-        "season": "MOVIE",
-        "eps": "1",
-        "stat": "?",
+        "jap_name": "Hataraku Saibou Black",
+        "eng_name": "Cells at Work! CODE BLACK!",
+        "season": "3",
+        "eps": "13",
+        "stat": "Completed",
         "watched": "NOT YET"
     },
     {
@@ -10104,15 +10095,6 @@
         "season": "1",
         "eps": "13",
         "stat": "Completed",
-        "watched": "NOT YET"
-    },
-    {
-        "ani_ID": 1124,
-        "jap_name": "Serial Experiments Lain: The Nightmare of Fabrication",
-        "eng_name": "Serial Experiments Lain: The Nightmare of Fabrication",
-        "season": "1",
-        "eps": "1",
-        "stat": "?",
         "watched": "NOT YET"
     },
     {
@@ -10796,7 +10778,7 @@
         "eng_name": "Our Seven Day War",
         "season": "MOVIE",
         "eps": "1",
-        "stat": "?",
+        "stat": "Completed",
         "watched": "NOT YET"
     },
     {
@@ -10851,7 +10833,7 @@
         "season": "1",
         "eps": "12",
         "stat": "Completed",
-        "watched": "NOT YET"
+        "watched": "YES"
     },
     {
         "ani_ID": 1207,
@@ -11488,8 +11470,8 @@
         "jap_name": "Shinigami Bocchan to Kuro Maid 3",
         "eng_name": "The Duke of Death and His Maid 3",
         "season": "3",
-        "eps": "?",
-        "stat": "Airing",
+        "eps": "12",
+        "stat": "Completed",
         "watched": "NOT YET"
     },
     {
@@ -11679,15 +11661,6 @@
         "season": "1",
         "eps": "12",
         "stat": "Completed",
-        "watched": "NOT YET"
-    },
-    {
-        "ani_ID": 1301,
-        "jap_name": "Shokugyou de Sekai Saikyou 3",
-        "eng_name": "From Commonplace to World's Strongest 3",
-        "season": "3",
-        "eps": "?",
-        "stat": "?",
         "watched": "NOT YET"
     },
     {
@@ -12353,7 +12326,7 @@
         "eng_name": "Sound! Euphonium 3",
         "season": "3",
         "eps": "13",
-        "stat": "Airing",
+        "stat": "Completed",
         "watched": "NOT YET"
     },
     {
@@ -12380,7 +12353,7 @@
         "eng_name": "Dead Mount Death Play Part 2",
         "season": "2",
         "eps": "12",
-        "stat": "Airing",
+        "stat": "Completed",
         "watched": "NOT YET"
     },
     {
@@ -12713,7 +12686,7 @@
         "eng_name": "Atri -My Dear Moments-",
         "season": "1",
         "eps": "13",
-        "stat": "Airing",
+        "stat": "Completed",
         "watched": "NOT YET"
     },
     {
@@ -12775,8 +12748,8 @@
         "jap_name": "TasuuketsuTasuuketsu",
         "eng_name": "Tasuketsu -Fate of the Majority-",
         "season": "1",
-        "eps": "12",
-        "stat": "Airing",
+        "eps": "24",
+        "stat": "Completed",
         "watched": "NOT YET"
     },
     {
@@ -12912,7 +12885,7 @@
         "season": "1",
         "eps": "12",
         "stat": "Completed",
-        "watched": "NOT YET"
+        "watched": "YES"
     },
     {
         "ani_ID": 1444,
@@ -13335,7 +13308,7 @@
         "season": "1",
         "eps": "25",
         "stat": "Completed",
-        "watched": "NOT YET"
+        "watched": "YES"
     },
     {
         "ani_ID": 1495,
@@ -13344,7 +13317,7 @@
         "season": "2",
         "eps": "25",
         "stat": "Completed",
-        "watched": "NOT YET"
+        "watched": "YES"
     },
     {
         "ani_ID": 1496,
@@ -13380,7 +13353,7 @@
         "season": "1",
         "eps": "12",
         "stat": "Completed",
-        "watched": "NOT YET"
+        "watched": "YES"
     },
     {
         "ani_ID": 1500,
@@ -13478,7 +13451,7 @@
         "eng_name": "Trapezium",
         "season": "MOVIE",
         "eps": "1",
-        "stat": "Airing",
+        "stat": "Completed",
         "watched": "NOT YET"
     },
     {
@@ -13644,24 +13617,6 @@
         "watched": "NOT YET"
     },
     {
-        "ani_ID": 1530,
-        "jap_name": "Kizuna no Allele",
-        "eng_name": "Kizuna no Allele",
-        "season": "1",
-        "eps": "12",
-        "stat": "Completed",
-        "watched": "NOT YET"
-    },
-    {
-        "ani_ID": 1531,
-        "jap_name": "Kizuna no Allele Season 2",
-        "eng_name": "Kizuna no Allele Season 2",
-        "season": "2",
-        "eps": "12",
-        "stat": "Completed",
-        "watched": "NOT YET"
-    },
-    {
         "ani_ID": 1532,
         "jap_name": "MF Ghost",
         "eng_name": "MF Ghost",
@@ -13731,24 +13686,6 @@
         "season": "2",
         "eps": "13",
         "stat": "Completed",
-        "watched": "NOT YET"
-    },
-    {
-        "ani_ID": 1540,
-        "jap_name": "Rurouni Kenshin: Meiji Kenkaku Romantan",
-        "eng_name": "Rurouni Kenshin",
-        "season": "1",
-        "eps": "24",
-        "stat": "Completed",
-        "watched": "NOT YET"
-    },
-    {
-        "ani_ID": 1541,
-        "jap_name": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
-        "eng_name": "Rurouni Kenshin: Kyoto Disturbance",
-        "season": "2",
-        "eps": "23",
-        "stat": "Airing",
         "watched": "NOT YET"
     },
     {
@@ -13856,7 +13793,7 @@
         "eng_name": "Phantom Trigger",
         "season": "4",
         "eps": "13",
-        "stat": "Airing",
+        "stat": "Completed",
         "watched": "NOT YET"
     },
     {
@@ -13865,7 +13802,7 @@
         "eng_name": "Tasokare Hotel",
         "season": "1",
         "eps": "12",
-        "stat": "Airing",
+        "stat": "Completed",
         "watched": "NOT YET"
     },
     {
@@ -13910,8 +13847,8 @@
         "eng_name": "Witch Watch",
         "season": "1",
         "eps": "25",
-        "stat": "Airing",
-        "watched": "NOT YET"
+        "stat": "Completed",
+        "watched": "YES"
     },
     {
         "ani_ID": 1561,
@@ -13973,8 +13910,8 @@
         "eng_name": "The Unaware Atelier Meister",
         "season": "1",
         "eps": "12",
-        "stat": "Airing",
-        "watched": "NOT YET"
+        "stat": "Completed",
+        "watched": "YES"
     },
     {
         "ani_ID": 1568,
@@ -13989,15 +13926,6 @@
         "ani_ID": 1569,
         "jap_name": "Farmagia",
         "eng_name": "Farmagia",
-        "season": "1",
-        "eps": "12",
-        "stat": "Completed",
-        "watched": "NOT YET"
-    },
-    {
-        "ani_ID": 1570,
-        "jap_name": "Mahoutsukai no Yakusoku",
-        "eng_name": "Promise of Wizard",
         "season": "1",
         "eps": "12",
         "stat": "Completed",
@@ -14019,7 +13947,7 @@
         "season": "2",
         "eps": "12",
         "stat": "Completed",
-        "watched": "NOT YET"
+        "watched": "YES"
     },
     {
         "ani_ID": 1573,
@@ -14037,7 +13965,7 @@
         "season": "1",
         "eps": "13",
         "stat": "Completed",
-        "watched": "NOT YET"
+        "watched": "YES"
     },
     {
         "ani_ID": 1575,
@@ -14053,9 +13981,9 @@
         "jap_name": "Kono Kaisha ni Suki na Hito ga Imasu",
         "eng_name": "I Have a Crush at Work",
         "season": "1",
-        "eps": "?",
-        "stat": "Airing",
-        "watched": "NOT YET"
+        "eps": "12",
+        "stat": "Completed",
+        "watched": "YES"
     },
     {
         "ani_ID": 1577,
@@ -14117,7 +14045,7 @@
         "eng_name": "Summer Pockets",
         "season": "1",
         "eps": "26",
-        "stat": "Airing",
+        "stat": "Completed",
         "watched": "NOT YET"
     },
     {
@@ -14136,7 +14064,7 @@
         "season": "1",
         "eps": "12",
         "stat": "Completed",
-        "watched": "NOT YET"
+        "watched": "YES"
     },
     {
         "ani_ID": 1586,
@@ -14154,7 +14082,7 @@
         "season": "1",
         "eps": "12",
         "stat": "Completed",
-        "watched": "NOT YET"
+        "watched": "YES"
     },
     {
         "ani_ID": 1588,
@@ -14179,9 +14107,9 @@
         "jap_name": "My Gift LVL 9999 Unlimited Gacha",
         "eng_name": "My Gift LVL 9999 Unlimited Gacha",
         "season": "1",
-        "eps": "?",
-        "stat": "?",
-        "watched": "NOT YET"
+        "eps": "12",
+        "stat": "Completed",
+        "watched": "YES"
     },
     {
         "ani_ID": 1591,
@@ -14189,8 +14117,8 @@
         "eng_name": "To Be Hero X",
         "season": "1",
         "eps": "24",
-        "stat": "Airing",
-        "watched": "NOT YET"
+        "stat": "Completed",
+        "watched": "YES"
     },
     {
         "ani_ID": 1592,
@@ -14212,12 +14140,12 @@
     },
     {
         "ani_ID": 1594,
-        "jap_name": "May I Ask for One Final Thing?",
+        "jap_name": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei",
         "eng_name": "May I Ask for One Final Thing?",
         "season": "1",
-        "eps": "?",
-        "stat": "?",
-        "watched": "NOT YET"
+        "eps": "13",
+        "stat": "Completed",
+        "watched": "YES"
     },
     {
         "ani_ID": 1596,
@@ -14270,7 +14198,7 @@
         "eng_name": "Maebashi Witches",
         "season": "1",
         "eps": "12",
-        "stat": "Airing",
+        "stat": "Completed",
         "watched": "NOT YET"
     },
     {
@@ -14280,7 +14208,7 @@
         "season": "1",
         "eps": "12",
         "stat": "Completed",
-        "watched": "NOT YET"
+        "watched": "YES"
     },
     {
         "ani_ID": 1603,
@@ -14297,8 +14225,8 @@
         "eng_name": "Clevatess",
         "season": "1",
         "eps": "12",
-        "stat": "Airing",
-        "watched": "NOT YET"
+        "stat": "Completed",
+        "watched": "YES"
     },
     {
         "ani_ID": 1605,
@@ -14314,18 +14242,18 @@
         "jap_name": "Mizu Zokusei no Mahoutsukai",
         "eng_name": "The Water Magician",
         "season": "1",
-        "eps": "?",
-        "stat": "Airing",
-        "watched": "NOT YET"
+        "eps": "12",
+        "stat": "Completed",
+        "watched": "YES"
     },
     {
         "ani_ID": 1607,
         "jap_name": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou Season 2",
         "eng_name": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 2",
         "season": "2",
-        "eps": "?",
-        "stat": "Airing",
-        "watched": "NOT YET"
+        "eps": "12",
+        "stat": "Completed",
+        "watched": "YES"
     },
     {
         "ani_ID": 1608,
@@ -14333,8 +14261,8 @@
         "eng_name": "Dandadan Season 2",
         "season": "2",
         "eps": "12",
-        "stat": "Airing",
-        "watched": "NOT YET"
+        "stat": "Completed",
+        "watched": "YES"
     },
     {
         "ani_ID": 1609,
@@ -14342,8 +14270,8 @@
         "eng_name": "Detectives These Days Are Crazy!",
         "season": "1",
         "eps": "12",
-        "stat": "Airing",
-        "watched": "NOT YET"
+        "stat": "Completed",
+        "watched": "YES"
     },
     {
         "ani_ID": 1610,
@@ -14351,17 +14279,17 @@
         "eng_name": "Call of the Night Season 2",
         "season": "2",
         "eps": "12",
-        "stat": "Airing",
-        "watched": "NOT YET"
+        "stat": "Completed",
+        "watched": "YES"
     },
     {
         "ani_ID": 1611,
         "jap_name": "Watari-kun no xx ga Houkai Sunzen",
         "eng_name": "Watari-kun's ****** Is about to Collapse",
         "season": "1",
-        "eps": "?",
-        "stat": "Airing",
-        "watched": "NOT YET"
+        "eps": "26",
+        "stat": "Completed",
+        "watched": "YES"
     },
     {
         "ani_ID": 1612,
@@ -14369,8 +14297,8 @@
         "eng_name": "The Shy Hero and the Assassin Princesses",
         "season": "1",
         "eps": "12",
-        "stat": "Airing",
-        "watched": "NOT YET"
+        "stat": "Completed",
+        "watched": "YES"
     },
     {
         "ani_ID": 1613,
@@ -14378,7 +14306,7 @@
         "eng_name": "Betrothed to My Sister's Ex",
         "season": "1",
         "eps": "12",
-        "stat": "Airing",
+        "stat": "Completed",
         "watched": "NOT YET"
     },
     {
@@ -14386,9 +14314,9 @@
         "jap_name": "Chinmoku no Majo no Kakushigoto",
         "eng_name": "Secrets of the Silent Witch",
         "season": "1",
-        "eps": "?",
-        "stat": "Airing",
-        "watched": "NOT YET"
+        "eps": "12",
+        "stat": "Completed",
+        "watched": "YES"
     },
     {
         "ani_ID": 1616,
@@ -14396,8 +14324,8 @@
         "eng_name": "Private Tutor to the Duke's Daughter",
         "season": "1",
         "eps": "?",
-        "stat": "Airing",
-        "watched": "NOT YET"
+        "stat": "Completed",
+        "watched": "YES"
     },
     {
         "ani_ID": 1617,
@@ -14405,8 +14333,8 @@
         "eng_name": "Scooped Up by an S-Ranked Adventurer",
         "season": "1",
         "eps": "12",
-        "stat": "Airing",
-        "watched": "NOT YET"
+        "stat": "Completed",
+        "watched": "YES"
     },
     {
         "ani_ID": 1618,
@@ -14414,8 +14342,8 @@
         "eng_name": "The Fragrant Flower Blooms with Dignity",
         "season": "1",
         "eps": "13",
-        "stat": "Airing",
-        "watched": "NOT YET"
+        "stat": "Completed",
+        "watched": "YES"
     },
     {
         "ani_ID": 1619,
@@ -14423,8 +14351,8 @@
         "eng_name": "A Couple of Cuckoos Season 2",
         "season": "2",
         "eps": "12",
-        "stat": "Airing",
-        "watched": "NOT YET"
+        "stat": "Completed",
+        "watched": "YES"
     },
     {
         "ani_ID": 1620,
@@ -14432,8 +14360,8 @@
         "eng_name": "There's No Freaking Way I'll be Your Lover! Unless...",
         "season": "1",
         "eps": "12",
-        "stat": "Airing",
-        "watched": "NOT YET"
+        "stat": "Completed",
+        "watched": "YES"
     },
     {
         "ani_ID": 1621,
@@ -14494,18 +14422,18 @@
         "jap_name": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu 2nd Season",
         "eng_name": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2",
         "season": "2",
-        "eps": "?",
-        "stat": "Airing",
-        "watched": "NOT YET"
+        "eps": "12",
+        "stat": "Completed",
+        "watched": "YES"
     },
     {
         "ani_ID": 1628,
         "jap_name": "Dr. Stone: Science Future Part 2",
         "eng_name": "Dr. Stone: Science Future Part 2",
-        "season": "7",
+        "season": "6",
         "eps": "12",
-        "stat": "Airing",
-        "watched": "NOT YET"
+        "stat": "Completed",
+        "watched": "YES"
     },
     {
         "ani_ID": 1629,
@@ -14513,8 +14441,8 @@
         "eng_name": "Welcome to the Outcast's Restaurant!",
         "season": "1",
         "eps": "12",
-        "stat": "Airing",
-        "watched": "NOT YET"
+        "stat": "Completed",
+        "watched": "YES"
     },
     {
         "ani_ID": 1630,
@@ -14522,8 +14450,8 @@
         "eng_name": "The Rising of the Shield Hero 4",
         "season": "4",
         "eps": "12",
-        "stat": "Airing",
-        "watched": "NOT YET"
+        "stat": "Completed",
+        "watched": "YES"
     },
     {
         "ani_ID": 1631,
@@ -14531,8 +14459,8 @@
         "eng_name": "Dealing with Mikadono Sisters Is a Breeze",
         "season": "1",
         "eps": "12",
-        "stat": "Airing",
-        "watched": "NOT YET"
+        "stat": "Completed",
+        "watched": "YES"
     },
     {
         "ani_ID": 1632,
@@ -14540,7 +14468,7 @@
         "eng_name": "Grand Blue Dreaming",
         "season": "2",
         "eps": "12",
-        "stat": "Airing",
+        "stat": "Completed",
         "watched": "NOT YET"
     },
     {
@@ -14549,8 +14477,8 @@
         "eng_name": "Sakamoto Days Part 2",
         "season": "2",
         "eps": "11",
-        "stat": "Airing",
-        "watched": "NOT YET"
+        "stat": "Completed",
+        "watched": "YES"
     },
     {
         "ani_ID": 1634,
@@ -14558,7 +14486,7 @@
         "eng_name": "Hotel Inhumans",
         "season": "1",
         "eps": "13",
-        "stat": "Airing",
+        "stat": "Completed",
         "watched": "NOT YET"
     },
     {
@@ -14567,8 +14495,8 @@
         "eng_name": "Cultural Exchange With a Game Centre Girl",
         "season": "1",
         "eps": "12",
-        "stat": "Airing",
-        "watched": "NOT YET"
+        "stat": "Completed",
+        "watched": "YES"
     },
     {
         "ani_ID": 1636,
@@ -14576,8 +14504,8 @@
         "eng_name": "Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin",
         "season": "1",
         "eps": "12",
-        "stat": "Airing",
-        "watched": "NOT YET"
+        "stat": "Completed",
+        "watched": "YES"
     },
     {
         "ani_ID": 1637,
@@ -14585,8 +14513,8 @@
         "eng_name": "Ruri Rocks",
         "season": "1",
         "eps": "13",
-        "stat": "Airing",
-        "watched": "NOT YET"
+        "stat": "Completed",
+        "watched": "YES"
     },
     {
         "ani_ID": 1638,
@@ -14612,8 +14540,8 @@
         "eng_name": "My Dress-Up Darling Season 2",
         "season": "2",
         "eps": "12",
-        "stat": "Airing",
-        "watched": "NOT YET"
+        "stat": "Completed",
+        "watched": "YES"
     },
     {
         "ani_ID": 1641,
@@ -14621,7 +14549,7 @@
         "eng_name": "Bad Girl",
         "season": "1",
         "eps": "12",
-        "stat": "Airing",
+        "stat": "Completed",
         "watched": "NOT YET"
     },
     {
@@ -14639,8 +14567,8 @@
         "eng_name": "Nukitashi the Animation",
         "season": "1",
         "eps": "11",
-        "stat": "Airing",
-        "watched": "NOT YET"
+        "stat": "Completed",
+        "watched": "YES"
     },
     {
         "ani_ID": 1644,
@@ -14649,7 +14577,7 @@
         "season": "1",
         "eps": "12",
         "stat": "Completed",
-        "watched": "NOT YET"
+        "watched": "YES"
     },
     {
         "ani_ID": 1645,
@@ -14692,9 +14620,9 @@
         "jap_name": "Tougen Anki",
         "eng_name": "Tougen Anki",
         "season": "1",
-        "eps": "?",
-        "stat": "Airing",
-        "watched": "NOT YET"
+        "eps": "24",
+        "stat": "Completed",
+        "watched": "YES"
     },
     {
         "ani_ID": 1650,
@@ -14711,8 +14639,8 @@
         "eng_name": "New Saga",
         "season": "1",
         "eps": "12",
-        "stat": "Airing",
-        "watched": "NOT YET"
+        "stat": "Completed",
+        "watched": "YES"
     },
     {
         "ani_ID": 1652,
@@ -14728,8 +14656,8 @@
         "jap_name": "Watashi wo Tabetai, Hitodenashi",
         "eng_name": "This Monster Wants to Eat Me",
         "season": "1",
-        "eps": "?",
-        "stat": "?",
+        "eps": "13",
+        "stat": "Airing",
         "watched": "NOT YET"
     },
     {
@@ -14740,5 +14668,644 @@
         "eps": "12",
         "stat": "Completed",
         "watched": "YES"
+    },
+    {
+        "ani_ID": 1656,
+        "jap_name": "Nanbaka",
+        "eng_name": "Nanbaka",
+        "season": "1",
+        "eps": "12",
+        "stat": "Completed",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1657,
+        "jap_name": "Nanbaka: Season 2",
+        "eng_name": "Nanbaka: Season 2",
+        "season": "2",
+        "eps": "12",
+        "stat": "Completed",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1658,
+        "jap_name": "Mushoku no Eiyuu: Betsu ni Skill Nanka Iranakatta n da ga",
+        "eng_name": "Hero Without a Class: Who Even Needs Skills?!",
+        "season": "1",
+        "eps": "12",
+        "stat": "Completed",
+        "watched": "YES"
+    },
+    {
+        "ani_ID": 1659,
+        "jap_name": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
+        "eng_name": "My Status as an Assassin Obviously Exceeds the Hero's",
+        "season": "1",
+        "eps": "12",
+        "stat": "Completed",
+        "watched": "YES"
+    },
+    {
+        "ani_ID": 1660,
+        "jap_name": "Tondemo Skill de Isekai Hourou Meshi Season 2",
+        "eng_name": "Campfire Cooking in Another World with My Absurd Skill Season 2",
+        "season": "2",
+        "eps": "12",
+        "stat": "Completed",
+        "watched": "YES"
+    },
+    {
+        "ani_ID": 1661,
+        "jap_name": "Sozai Saishuka no Isekai Ryokouki",
+        "eng_name": "A Gatherer's Adventure in Isekai",
+        "season": "1",
+        "eps": "12",
+        "stat": "Completed",
+        "watched": "YES"
+    },
+    {
+        "ani_ID": 1662,
+        "jap_name": "Nageki no Bourei wa Intai shitai Part 2",
+        "eng_name": "Let This Grieving Soul Retire Part 2",
+        "season": "2",
+        "eps": "11",
+        "stat": "Completed",
+        "watched": "YES"
+    },
+    {
+        "ani_ID": 1663,
+        "jap_name": "Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou sarete Saikyou wo Mezashimasu",
+        "eng_name": "The Banished Court Magician Aims to Become the Strongest",
+        "season": "1",
+        "eps": "12",
+        "stat": "Completed",
+        "watched": "YES"
+    },
+    {
+        "ani_ID": 1664,
+        "jap_name": "Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha",
+        "eng_name": "Dad is a Hero, Mom is a Spirit, I'm a Reincarnator",
+        "season": "1",
+        "eps": "12",
+        "stat": "Completed",
+        "watched": "YES"
+    },
+    {
+        "ani_ID": 1665,
+        "jap_name": "Tensei Akujo no Kuro Rekishi",
+        "eng_name": "The Dark History of the Reincarnated Villainess",
+        "season": "1",
+        "eps": "12",
+        "stat": "Completed",
+        "watched": "YES"
+    },
+    {
+        "ani_ID": 1666,
+        "jap_name": "Gachiakuta",
+        "eng_name": "Gachiakuta",
+        "season": "1",
+        "eps": "24",
+        "stat": "Completed",
+        "watched": "YES"
+    },
+    {
+        "ani_ID": 1667,
+        "jap_name": "Tomodachi no Imouto ga Ore ni dake Uzai",
+        "eng_name": "My Friend's Little Sister Has It In for Me",
+        "season": "1",
+        "eps": "12",
+        "stat": "Airing",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1668,
+        "jap_name": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei",
+        "eng_name": "Easygoing Territory Defense by the Optimistic Lord",
+        "season": "1",
+        "eps": "12",
+        "stat": "Airing",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1669,
+        "jap_name": "Majutsushi Kunon wa Mieteiru",
+        "eng_name": "Kunon the Sorcerer Can See",
+        "season": "1",
+        "eps": "?",
+        "stat": "?",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1670,
+        "jap_name": "Assault Lily: Bouquet",
+        "eng_name": "Assault Lily: Bouquet",
+        "season": "1",
+        "eps": "12",
+        "stat": "Completed",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1671,
+        "jap_name": "Boku no Tonari ni Ankoku Hakaishin ga Imasu",
+        "eng_name": "A Destructive God Sits Next to Me",
+        "season": "1",
+        "eps": "12",
+        "stat": "Completed",
+        "watched": "YES"
+    },
+    {
+        "ani_ID": 1672,
+        "jap_name": "Kikaijikake no Marie",
+        "eng_name": "Mechanical Marie",
+        "season": "1",
+        "eps": "?",
+        "stat": "Airing",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1673,
+        "jap_name": "Kizu darake Seijo yori Houfuku wo Komete",
+        "eng_name": "With Vengeance, Sincerely, Your Broken Saintess",
+        "season": "1",
+        "eps": "12",
+        "stat": "Completed",
+        "watched": "YES"
+    },
+    {
+        "ani_ID": 1674,
+        "jap_name": "Towa no Yuugure",
+        "eng_name": "Dusk Beyond the End of the World",
+        "season": "1",
+        "eps": "12",
+        "stat": "Airing",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1675,
+        "jap_name": "Akujiki Reijou to Kyouketsu Koushaku",
+        "eng_name": "Pass the Monster Meat, Milady!",
+        "season": "1",
+        "eps": "12",
+        "stat": "Airing",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1676,
+        "jap_name": "Chitose-kun wa Ramune Bin no Naka",
+        "eng_name": "Chitose Is in the Ramune Bottle",
+        "season": "1",
+        "eps": "13",
+        "stat": "Airing",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1677,
+        "jap_name": "Bukiyou na Senpai",
+        "eng_name": "My Awkward Senpai",
+        "season": "1",
+        "eps": "12",
+        "stat": "Airing",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1678,
+        "jap_name": "Alma-chan wa Kazoku ni Naritai",
+        "eng_name": "Alma-chan Wants to Be a Family!",
+        "season": "1",
+        "eps": "11",
+        "stat": "Airing",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1679,
+        "jap_name": "Egao no Taenai Shokuba desu",
+        "eng_name": "A Mangaka's Weirdly Wonderful Workplace",
+        "season": "1",
+        "eps": "13",
+        "stat": "Airing",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1680,
+        "jap_name": "Sawaranaide Kotesashi-kun",
+        "eng_name": "Hands Off: Sawaranaide Kotesashi-kun",
+        "season": "1",
+        "eps": "12",
+        "stat": "Airing",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1681,
+        "jap_name": "Kijin Gentoushou",
+        "eng_name": "Sword of the Demon Hunter: Kijin Gentosho",
+        "season": "1",
+        "eps": "24",
+        "stat": "Completed",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1682,
+        "jap_name": "Busamen Gachi Fighter",
+        "eng_name": "Uglymug, Epicfighter",
+        "season": "1",
+        "eps": "12",
+        "stat": "Completed",
+        "watched": "YES"
+    },
+    {
+        "ani_ID": 1683,
+        "jap_name": "Utagoe wa Mille-Feuille",
+        "eng_name": "Harmony of Mille-Feuille",
+        "season": "1",
+        "eps": "10",
+        "stat": "Completed",
+        "watched": "YES"
+    },
+    {
+        "ani_ID": 1684,
+        "jap_name": "Xian Wang de Richang Shenghuo",
+        "eng_name": "The Daily Life of the Immortal King",
+        "season": "1",
+        "eps": "15",
+        "stat": "Completed",
+        "watched": "YES"
+    },
+    {
+        "ani_ID": 1685,
+        "jap_name": "Xian Wang de Richang Shenghuo 2",
+        "eng_name": "The Daily Life of the Immortal King 2",
+        "season": "2",
+        "eps": "12",
+        "stat": "Completed",
+        "watched": "YES"
+    },
+    {
+        "ani_ID": 1686,
+        "jap_name": "Xian Wang de Richang Shenghuo 3",
+        "eng_name": "The Daily Life of the Immortal King 3",
+        "season": "3",
+        "eps": "12",
+        "stat": "Completed",
+        "watched": "YES"
+    },
+    {
+        "ani_ID": 1687,
+        "jap_name": "Xian Wang de Richang Shenghuo 4",
+        "eng_name": "The Daily Life of the Immortal King 4",
+        "season": "4",
+        "eps": "12",
+        "stat": "Completed",
+        "watched": "YES"
+    },
+    {
+        "ani_ID": 1688,
+        "jap_name": "Mofa Gongzhu de Xiao Fannao",
+        "eng_name": "The Fated Magical Princess: Who Made Me a Princess",
+        "season": "1",
+        "eps": "16",
+        "stat": "Airing",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1689,
+        "jap_name": "Guimi Zhi Zhu: Xiaochou Pian",
+        "eng_name": "Lord of Mysteries",
+        "season": "1",
+        "eps": "13",
+        "stat": "Completed",
+        "watched": "YES"
+    },
+    {
+        "ani_ID": 1690,
+        "jap_name": "Seihantai na Kimi to Boku",
+        "eng_name": "You and I Are Polar Opposites",
+        "season": "1",
+        "eps": "?",
+        "stat": "?",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1691,
+        "jap_name": "Wandance",
+        "eng_name": "Wandance",
+        "season": "1",
+        "eps": "?",
+        "stat": "Airing",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1692,
+        "jap_name": "Mayonaka Heart Tune",
+        "eng_name": "Tune In to the Midnight Heart",
+        "season": "1",
+        "eps": "?",
+        "stat": "Airing",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1693,
+        "jap_name": "Maou-sama, Retry! R",
+        "eng_name": "Demon Lord, Retry! R",
+        "season": "2",
+        "eps": "12",
+        "stat": "Completed",
+        "watched": "YES"
+    },
+    {
+        "ani_ID": 1694,
+        "jap_name": "Xiehou Ta de Shaonu Shidai",
+        "eng_name": "Mom, I'm Sorry",
+        "season": "1",
+        "eps": "18",
+        "stat": "Completed",
+        "watched": "YES"
+    },
+    {
+        "ani_ID": 1695,
+        "jap_name": "Umamusume: Cinderella Gray Part 2",
+        "eng_name": "Uma Musume: Cinderella Gray Part 2",
+        "season": "5",
+        "eps": "10",
+        "stat": "Completed",
+        "watched": "YES"
+    },
+    {
+        "ani_ID": 1696,
+        "jap_name": "Yasei no Last Boss ga Arawareta!",
+        "eng_name": "A Wild Last Boss Appeared!",
+        "season": "1",
+        "eps": "12",
+        "stat": "Completed",
+        "watched": "YES"
+    },
+    {
+        "ani_ID": 1697,
+        "jap_name": "Shuumatsu Touring",
+        "eng_name": "Touring After the Apocalypse",
+        "season": "1",
+        "eps": "12",
+        "stat": "Airing",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1698,
+        "jap_name": "Senpai wa Otokonoko Movie: Ame Nochi Hare",
+        "eng_name": "Senpai is an Otokonoko Movie: Sunshine After the Rain",
+        "season": "MOVIE",
+        "eps": "1",
+        "stat": "Completed",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1699,
+        "jap_name": "Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun",
+        "eng_name": "Inexpressive Kashiwada and Expressive Oota",
+        "season": "1",
+        "eps": "12",
+        "stat": "Airing",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1700,
+        "jap_name": "Hanebado!",
+        "eng_name": "The Badminton play of Ayano Hanesaki!",
+        "season": "1",
+        "eps": "13",
+        "stat": "Completed",
+        "watched": "YES"
+    },
+    {
+        "ani_ID": 1701,
+        "jap_name": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
+        "eng_name": "Sentenced to Be a Hero",
+        "season": "1",
+        "eps": "?",
+        "stat": "?",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1702,
+        "jap_name": "Kakunaru Ue wa",
+        "eng_name": "Now That We Draw",
+        "season": "1",
+        "eps": "?",
+        "stat": "?",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1703,
+        "jap_name": "Chou Kaguya-hime!",
+        "eng_name": "Cosmic Princess Kaguya!",
+        "season": "1",
+        "eps": "?",
+        "stat": "?",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1704,
+        "jap_name": "Sanda",
+        "eng_name": "Sanda",
+        "season": "1",
+        "eps": "12",
+        "stat": "Airing",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1705,
+        "jap_name": "Tsue to Tsurugi no Wistoria Season 2",
+        "eng_name": "Wistoria: Wand and Sword Season 2",
+        "season": "2",
+        "eps": "?",
+        "stat": "?",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1706,
+        "jap_name": "Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru",
+        "eng_name": "Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power",
+        "season": "1",
+        "eps": "?",
+        "stat": "Airing",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1707,
+        "jap_name": "Yuusha Party wo Oidasareta Kiyoubinbou",
+        "eng_name": "Jack-of-All-Trades, Party of None",
+        "season": "1",
+        "eps": "?",
+        "stat": "Airing",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1708,
+        "jap_name": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
+        "eng_name": "Sentenced to Be a Hero",
+        "season": "1",
+        "eps": "12",
+        "stat": "Airing",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1709,
+        "jap_name": "29-sai Dokushin Chuuken Boukensha no Nichijou",
+        "eng_name": "An Adventurer's Daily Grind at Age 29",
+        "season": "1",
+        "eps": "?",
+        "stat": "Airing",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1710,
+        "jap_name": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisankei Majutsu de Na mo Naki Mura wo Saikyou no Jousai Toshi ni",
+        "eng_name": "Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City",
+        "season": "1",
+        "eps": "?",
+        "stat": "Airing",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1711,
+        "jap_name": "Maou no Musume wa Yasashisugiru!!",
+        "eng_name": "The Demon King's Daughter Is Too Kind!!",
+        "season": "1",
+        "eps": "?",
+        "stat": "Airing",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1712,
+        "jap_name": "Osananajimi to wa Love Comedy ni Naranai",
+        "eng_name": "You Can't Be In a Rom-Com with Your Childhood Friends!",
+        "season": "1",
+        "eps": "?",
+        "stat": "Airing",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1713,
+        "jap_name": "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita",
+        "eng_name": "There was a Cute Girl in the Hero's Party, so I Tried Confessing to Her",
+        "season": "1",
+        "eps": "?",
+        "stat": "Airing",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1714,
+        "jap_name": "Goumon Baito-kun no Nichijou",
+        "eng_name": "The Daily Life of a Part-time Torturer",
+        "season": "1",
+        "eps": "12",
+        "stat": "Airing",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1715,
+        "jap_name": "Kirei ni Shitemoraemasu ka",
+        "eng_name": "Wash It All Away",
+        "season": "1",
+        "eps": "?",
+        "stat": "Airing",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1716,
+        "jap_name": "Isekai no Sata wa Shachiku Shidai",
+        "eng_name": "Isekai Office Worker: The Other World's Books Depend on the Bean Counter",
+        "season": "1",
+        "eps": "?",
+        "stat": "Airing",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1717,
+        "jap_name": "Spy x Family Season 3",
+        "eng_name": "Spy x Family Season 3",
+        "season": "4",
+        "eps": "13",
+        "stat": "Completed",
+        "watched": "YES"
+    },
+    {
+        "ani_ID": 1718,
+        "jap_name": "Sousou no Frieren 2nd Season",
+        "eng_name": "Frieren: Beyond Journey's End Season 2",
+        "season": "2",
+        "eps": "?",
+        "stat": "?",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1719,
+        "jap_name": "Jigokuraku 2nd Season",
+        "eng_name": "Hell's Paradise Season 2",
+        "season": "2",
+        "eps": "?",
+        "stat": "Airing",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1720,
+        "jap_name": "Himesama 'Goumon' no Jikan desu 2nd Season",
+        "eng_name": "Tis Time for 'Torture', Princess Season 2",
+        "season": "2",
+        "eps": "?",
+        "stat": "Airing",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1721,
+        "jap_name": "Shibou Yuugi de Meshi wo Kuu",
+        "eng_name": "Shiboyugi: Playing Death Games to Put Food on the Table",
+        "season": "1",
+        "eps": "11",
+        "stat": "Airing",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1722,
+        "jap_name": "Ruri Dragon",
+        "eng_name": "Ruri Dragon",
+        "season": "1",
+        "eps": "?",
+        "stat": "?",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1723,
+        "jap_name": "Sayonara no Asa ni Yakusoku no Hana wo Kazarou",
+        "eng_name": "Maquia: When the Promised Flower Blooms",
+        "season": "1",
+        "eps": "MOVIE",
+        "stat": "Completed",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1724,
+        "jap_name": "Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai sareru",
+        "eng_name": "The Villainess Is Adored by the Prince of the Neighbor Kingdom",
+        "season": "1",
+        "eps": "?",
+        "stat": "Airing",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1725,
+        "jap_name": "Kaya-chan wa Kowakunai",
+        "eng_name": "Kaya-chan Isn't Scary",
+        "season": "1",
+        "eps": "12",
+        "stat": "Airing",
+        "watched": "NOT YET"
+    },
+    {
+        "ani_ID": 1726,
+        "jap_name": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 3rd Season",
+        "eng_name": "Shangri-La Frontier Season 3",
+        "season": "3",
+        "eps": "?",
+        "stat": "?",
+        "watched": "NOT YET"
     }
 ]
